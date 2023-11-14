@@ -21,6 +21,11 @@ Fudan University
 · B.Sc. (Graduate with Highest Honor) in Atmospheric Sciences, 2019.09-2023.06
 Fudan University
 
+---
+title: "Ph.D. in Climate Sciences, 2023.09-present"
+venue: "Fudan University"
+---
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
