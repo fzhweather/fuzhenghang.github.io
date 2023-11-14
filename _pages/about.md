@@ -9,16 +9,18 @@ redirect_from:
 ---
 
 I am a first year Ph.D. student in [Department of Atmospheric and Oceanic Sciences](https://atmsci.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn) co-advised by [Prof. Wen Zhou](https://atmsci.fudan.edu.cn/97/c3/c14809a432067/page.htm) and [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/) (in [Scripps](https://scripps.ucsd.edu/)). 
+---
 I am interested in the dynamics of extreme climate/weather events (e.g., heatwaves, floods, tropical cyclones).
-
+---
 
 Education
 ======
 · Ph.D. in Climate Sciences, 2023.09-present
 Fudan University
+---
 · B.Sc. (Graduate with Highest Honor) in Atmospheric Sciences, 2019.09-2023.06
 Fudan University
-
+---
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
