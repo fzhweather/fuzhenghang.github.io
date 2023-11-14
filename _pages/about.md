@@ -29,7 +29,7 @@ permalink: /talks/2012-03-01-talk-1
 venue: "Fudan University"
 date: 2012-03-01
 location: "San Francisco, California"
----
+
 
 Getting started
 ======
