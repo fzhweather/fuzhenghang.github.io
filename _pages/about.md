@@ -1,4 +1,4 @@
-![image](https://github.com/fzhweather/fuzhenghang.github.io/assets/111056976/68a10ccb-e92d-4601-aad1-d3fa8d2e719b)---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
