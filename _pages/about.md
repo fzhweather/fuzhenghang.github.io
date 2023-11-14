@@ -15,11 +15,10 @@ I am interested in the dynamics of extreme climate/weather events (e.g., heatwav
 
 Education
 ======
-· Ph.D. in Climate Sciences, 2023.09-present
-Fudan University
+· B.S. (Graduate with Highest Honor) in Atmospheric Sciences, Fudan University, 2023
 
-· B.Sc. (Graduate with Highest Honor) in Atmospheric Sciences, 2019.09-2023.06
-venue: "Fudan University"
+· Ph.D in Climate Sciences, Fudan University, 2027 (expected)
+
 
 
 Getting started
