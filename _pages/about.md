@@ -19,16 +19,7 @@ Education
 Fudan University
 
 · B.Sc. (Graduate with Highest Honor) in Atmospheric Sciences, 2019.09-2023.06
-Fudan University
-
-
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
 venue: "Fudan University"
-date: 2012-03-01
-location: "San Francisco, California"
 
 
 Getting started
