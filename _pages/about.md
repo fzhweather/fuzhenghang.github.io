@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in [Department of Atmospheric and Oceanic Sciences](https://atmsci.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn) co-advised by [Prof. Wen Zhou](https://atmsci.fudan.edu.cn/97/c3/c14809a432067/page.htm) and [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/) (in [Scripps](https://scripps.ucsd.edu/)), majoring in Climate System and Climate Change. 
+I am a first year Ph.D. student in [Department of Atmospheric and Oceanic Sciences](https://atmsci.fudan.edu.cn), [Fudan University](https://www.fudan.edu.cn) co-advised by [Prof. Wen Zhou](https://atmsci.fudan.edu.cn/97/c3/c14809a432067/page.htm) and [Prof. Shang-Ping Xie](https://sxie.scrippsprofiles.ucsd.edu/) (in [Scripps](https://scripps.ucsd.edu/)). 
 I am interested in the dynamics of extreme climate/weather events (e.g., heatwaves, floods, tropical cyclones).
 
 
