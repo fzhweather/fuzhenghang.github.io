@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. (with Highest Honor) in Atmospheric Sciences, Fudan University, 2023
+* Ph.D in Climate Sciences, Fudan University, 2027 (expected)
 
-Work experience
+
+Manuscripts under Review
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Zheng-Hang Fu, Wen Zhou*, Shang-Ping Xie*, Ruhua Zhang, and Xudong Wang, 2023: Dynamic Pathway Linking Pakistan Flooding to East Asia Heatwaves. submitted
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Refereed Publications
+======
+[2] Zheng-Hang Fu, Ruifen Zhan*, Jiuwei Zhao, Yohei Yamada, and Kexin Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. Geophysical Research Letters. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
+[1] Zheng-Hang Fu, Libin Cheng, Xingnan Ye*, Zhen Ma, Ruoyan Wang, Yusen Duan*, Huo Juntao, Jianmin Chen, 2022: Characteristics of aerosol chemistry and acidity in Shanghai after PM2.5 satisfied national guideline: Insight into future emission control, Science of The Total Environment, 154319. [https://doi.org/10.1016/j.scitotenv.2022.154319](https://doi.org/10.1016/j.scitotenv.2022.154319)
+
   
 Skills
 ======
@@ -36,12 +34,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
