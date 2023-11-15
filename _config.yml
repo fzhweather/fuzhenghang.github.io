@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng-Hang Fu (傅正航)"
+  name             : "Zheng-Hang Fu"
   avatar           : "profile1.png"
-  bio              : "Ph.D. student in Department of Atmospheric and Oceanic Sciences, Fudan University."
+  bio              : "A first year PhD student."
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
