@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng-Hang Fu@FDU"
+title                    : "Zheng-Hang Fu"
 title_separator          : "-"
 name                     : &name "Zheng-Hang Fu (傅正航)"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng-Hang Fu"
+  name             : "Zheng-Hang Fu (傅正航)"
   avatar           : "profile1.png"
-  bio              : ""
+  bio              : "Ph.D. student in Department of Atmospheric and Oceanic Sciences, Fudan University."
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LUnCCyIAAAAJ&hl=en"
-  email            :
+  email            :  zhfu19@fudan.edu.cn
   researchgate     : "https://www.researchgate.net/profile/Zheng-Hang-Fu"
   uri              :
   bitbucket        :
