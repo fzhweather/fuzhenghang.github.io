@@ -1,15 +1,10 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Manuscripts under Review
+======
+* Zheng-Hang Fu, Wen Zhou*, Shang-Ping Xie*, Ruhua Zhang, and Xudong Wang, 2023: Dynamic Pathway Linking Pakistan Flooding to East Asia Heatwaves. <i>under review</i>
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Refereed Publications
+======
+[2] Zheng-Hang Fu, Ruifen Zhan*, Jiuwei Zhao, Yohei Yamada, and Kexin Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. <i>Geophysical Research Letters</i>. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
+
+[1] Zheng-Hang Fu, Libin Cheng, Xingnan Ye*, Zhen Ma, Ruoyan Wang, Yusen Duan*, Huo Juntao, Jianmin Chen, 2022: Characteristics of aerosol chemistry and acidity in Shanghai after PM2.5 satisfied national guideline: Insight into future emission control, <i>Science of The Total Environment</i>, 154319. [https://doi.org/10.1016/j.scitotenv.2022.154319](https://doi.org/10.1016/j.scitotenv.2022.154319)
