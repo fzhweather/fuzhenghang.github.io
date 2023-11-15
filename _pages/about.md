@@ -15,3 +15,7 @@ Prior to being a Ph.D. student, I received my B.S. with [highest honor](https://
 Currently, I am interested in the dynamics of extreme climate/weather events (e.g., heatwaves, floods, tropical cyclones).
 
 
+Education
+======
+* B.S. (with Highest Honor) in Atmospheric Sciences, Fudan University, 2023
+* Ph.D in Climate Sciences, Fudan University, 2027 (expected)
