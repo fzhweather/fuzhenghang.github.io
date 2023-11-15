@@ -1,4 +1,4 @@
----
+<img width="1257" alt="image" src="https://github.com/fzhweather/fuzhenghang.github.io/assets/111056976/317794dd-ab2e-4b64-912d-deff8578a9ba">---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -18,3 +18,5 @@ Education
 ======
 * B.S. (with Highest Honor) in Atmospheric Sciences, Fudan University, 2023
 * Ph.D in Climate Sciences, Fudan University, 2027 (expected)
+
+You can find my CV here: [Zheng-Hang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
