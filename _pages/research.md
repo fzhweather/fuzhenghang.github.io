@@ -1,4 +1,4 @@
-![image](https://github.com/fzhweather/fuzhenghang.github.io/assets/111056976/c4be8cda-d61f-44e6-aa6f-38f2d111e398)---
+---
 permalink: /
 title: "Research Highlights"
 excerpt: "Research Highlights"
