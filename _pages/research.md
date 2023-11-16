@@ -1,12 +1,10 @@
-
 ---
 layout: archive
 title: "Research Highlights"
-permalink: /outreach/
+permalink: /research/
 author_profile: true
-redirect_from:
-  - /research/
 ---
+
 **Dynamic pathway linking Pakistan flooding to East Asia heatwaves**
 
 In July–August 2022, Pakistan suffered historic flooding while record-breaking heatwaves swept southern China, 
