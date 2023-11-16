@@ -19,4 +19,7 @@ Education
 * B.S. (with Highest Honor) in Atmospheric Sciences, Fudan University, 2023
 * Ph.D in Climate Sciences, Fudan University, 2027 (expected)
 
-You can find my CV here: [Zheng-Hang's Curriculum Vitae](../fuzhenghang.github.io/assets/Curriculum_Vitae.pdf)(updated October 2023)
+Awards
+======
+
+You can find my CV here: [Zheng-Hang's Curriculum Vitae](../fuzhenghang.github.io/assets/Curriculum_Vitae.pdf)（updated October 2023）
