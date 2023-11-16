@@ -1,4 +1,4 @@
----
+![image](https://github.com/fzhweather/fuzhenghang.github.io/assets/111056976/c4be8cda-d61f-44e6-aa6f-38f2d111e398)---
 permalink: /
 title: "Research Highlights"
 excerpt: "Research Highlights"
@@ -31,8 +31,12 @@ References:
 * **Zheng-Hang Fu**, Ruifen Zhan*, Jiuwei Zhao, Yohei Yamada, and Kexin Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
   
 * **Zheng-Hang Fu**, and Ruifen Zhan*, On the Diversity and Similarity of Multiple Tropical Cyclone Events: western North Pacific vs. North Atlantic. *In preparation*. 
-* ongoing
+* ongoing...
 
-****
+**Characteristics of Aerosol Chemistry and Acidity in Shanghai after PM2.5 Satisfied National Guideline: Insight into Future Emission Control**
 
+With continuous endeavors to control air pollutant emissions, the average concentration of PM2.5 in Shanghai in 2019-2020 satisfied the national secondary standard (35 μg m-3) for the first time. In this study, the two-year dataset of hourly resolution PM2.5 compositions observed in downtown Shanghai was used to investigate the relative contribution of sulfate and nitrate as well as particulate acidity. The average concentration of SO2 was reduced to 7.7 μg m-3, while the concentration of NOx remained above 40 μg m-3, indicating that the control of SO2 was more effective than that of NOx during the 13th Five-Year Plan period. Thus, the sulfate pollution was significantly reduced whereas the nitrate loading remained almost constant. The monthly N/S ratio varied from below 0.6 to above 2.0, indicating that the contribution of automobile exhaust to PM2.5 is seasonally dependent. Contrary to sulfate, the nitrate fraction increased rapidly with the increase of PM2.5 mass, suggesting that the explosive growth of nitrate has become a major driver of haze formation. ISORROPIA simulations show that PM2.5 was moderately acidic with pH values following the trend of winter > spring > autumn > summer. The diurnal variation of nitrate was related to the changes in aerosol water content, indicating the effect of heterogeneous aqueous reactions on secondary aerosol formation. The effectiveness of emission control for reducing inorganic PM2.5 varied with different gas precursors and seasons. The abatement of NH3 emissions will increase particle acidity and acid rain pollution, although it is more effective than that of NOx when the emission reduction is larger than 60%. This study suggests that the control of vehicle exhaust should be given priority in the Yangtze River Delta for coordinately mitigating PM2.5 and acid rain pollution.
+
+Reference:
+* **Zheng-Hang Fu**, Libin Cheng, Xingnan Ye\*, Zhen Ma, Ruoyan Wang, Yusen Duan\*, Huo Juntao, Jianmin Chen, 2022: Characteristics of aerosol chemistry and acidity in Shanghai after PM2.5 satisfied national guideline: Insight into future emission control, *Science of The Total Environment*, 154319. [https://doi.org/10.1016/j.scitotenv.2022.154319](https://doi.org/10.1016/j.scitotenv.2022.154319)
 
