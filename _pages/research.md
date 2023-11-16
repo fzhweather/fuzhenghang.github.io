@@ -30,7 +30,7 @@ Multiple tropical cyclone events (MTCEs) could exacerbate natural hazards, and a
 References:
 * **Zheng-Hang Fu**, Ruifen Zhan\*, Jiuwei Zhao, Yohei Yamada, and Kexin Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
   
-* **Zheng-Hang Fu**, and Ruifen Zhan*, On the Diversity and Similarity of Multiple Tropical Cyclone Events: western North Pacific vs. North Atlantic. *In preparation*. 
+* **Zheng-Hang Fu**, and Ruifen Zhan\*, On the Diversity and Similarity of Multiple Tropical Cyclone Events: western North Pacific vs. North Atlantic. *In preparation*. 
 * ongoing...
 
 <br>
