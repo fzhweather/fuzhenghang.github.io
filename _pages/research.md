@@ -23,6 +23,8 @@ Reference:
 * Zheng-Hang Fu, Wen Zhou\*, Shang-Ping Xie\*, Ruhua Zhang, and Xudong Wang, 2023: Dynamic Pathway Linking Pakistan Flooding 
 to East Asia Heatwaves. *under review*
 
+<br>
+
 **Multiple Tropical Cyclone Events in the Northern Hemisphere: Mechanisms, Projections, and Statistic Model**
 
 Multiple tropical cyclone events (MTCEs) could exacerbate natural hazards, and are important but difficult for prediction. Understanding the mechanism and potential changes in MTCE under a warmer climate are crucial for effective risk management and ensuring human safety, however, it remains tricky. Based on an objective method called K-means, this study first explores the corresponding large-scale environment and dynamic conditions of three clustered types of MTCEs over the western North Pacific (WNP) and North Atlantic (NA). Furthermore, we project changes in MTCEs by 2050 in the major basins of the Northern Hemisphere (NH) using high-resolution climate models. Results show that a significant increase in the frequency and duration of MTCEs over the NA is tied to vertical wind shear, and a notable decrease over the WNP is attributed to mid-level vertical motion. These findings give a first understanding of future changes in MTCEs and give implications for disaster mitigation and prevention among countries in the NH. To further facilitate the understanding between MTCE change and TC genesis frequency and seasonality, we propose a Poisson-Gamma landfall model. This part of research is ongoing...
@@ -32,6 +34,8 @@ References:
   
 * **Zheng-Hang Fu**, and Ruifen Zhan*, On the Diversity and Similarity of Multiple Tropical Cyclone Events: western North Pacific vs. North Atlantic. *In preparation*. 
 * ongoing...
+
+<br>
 
 **Characteristics of Aerosol Chemistry and Acidity in Shanghai after PM2.5 Satisfied National Guideline: Insight into Future Emission Control**
 
