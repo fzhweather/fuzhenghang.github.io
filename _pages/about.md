@@ -29,4 +29,9 @@ Research Interests
   
 Selected Awards
 ---
-
+* **The May Fourth Youth Medal**, Fudan University, 2023 (2 students every year)
+* **The Graduate Star**, Fudan University, 2023 (Highest honor for undergraduates, Top 10 among ~3625)
+* **Outstanding bachelor student in Shanghai**, 2023 (Top 5%)
+* **National Scholarship**, Fudan University, awarded two times in 2021 and 2022 (Top 2%)
+* **Merit Student Pacesetter**, Fudan University, 2022 (10 students every year)
+* **Academy Star (Innovation and Practice)**, Fudan University, 2021 (10 groups every year)
