@@ -24,9 +24,9 @@ Education
 Research Interests
 ---
 * Climate Dynamics
-* Extreme Climate/Weather Events
+* Climate/Weather Extremes
 * East Asian Summer Monsoon
   
-Awards
+Selected Awards
 ---
 
