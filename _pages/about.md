@@ -35,3 +35,9 @@ Selected Awards
 * **National Scholarship**, Fudan University, awarded two times in 2021 and 2022 (Top 2%)
 * **Merit Student Pacesetter**, Fudan University, 2022 (10 students every year)
 * **Academy Star (Innovation and Practice)**, Fudan University, 2021 (10 groups every year)
+
+News
+---
+* Nov 2023: I started to set up my personal website.
+* Sep 2023：I started my PhD at Fudan University.
+* June 2023：I graduated from Fudan University.
