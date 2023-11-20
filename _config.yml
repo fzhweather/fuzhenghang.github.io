@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zheng-Hang Fu（傅正航）"
 title_separator          : "-"
-name                     : &name "Zheng-Hang Fu"
+name                     : &name "Zheng-Hang Fu（傅正航）"
 description              : &description "personal description"
 url                      : https://fzhweather.github.io/fuzhenghang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng-Hang Fu"
+  name             : #"Zheng-Hang Fu"
   avatar           : "profile1.png"
   bio              : "zhfu19@fudan.edu.cn"
   location         : "Shanghai, China"
