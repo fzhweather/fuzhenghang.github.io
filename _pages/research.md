@@ -37,7 +37,7 @@ Multiple tropical cyclone events (MTCEs) could exacerbate natural hazards, and a
 <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/sati.png" width = "600"  alt="Graphical Abstract"><br/></div>
 <center>
   A satellite image of MTCE, taken on September 14, 2022, from <a href=http://agora.ex.nii.ac.jp/digital-typhoon/>digital-typhoon</a>
-  <center>
+</center>
 
 References:
 * **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
