@@ -19,8 +19,10 @@ to the climate system, largely independent of global sea surface temperature for
 upper troposphere westerly waveguide is robust, offering hopes to improve the sub-seasonal prediction of extreme events 
 in East Asia. 
 
-<div  align="center"> <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract"><br/>
-Flash flooding in Pakistan (<a href=https://time.com/search/?q=pakistan%20rainfall>left</a>) and extreme drought in China (<a href=https://www.bbc.com/news/62751110>right</a>) in the summer of 2022.</div>
+<div  align="center"> <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract"><br/></div>
+<center>
+  Flash flooding in Pakistan (<a href=https://time.com/search/?q=pakistan%20rainfall>left</a>) and extreme drought in China (<a href=https://www.bbc.com/news/62751110>right</a>) in the summer of 2022.
+</center>
 
 
 Reference:
@@ -34,7 +36,8 @@ to East Asia Heatwaves. *under review*
 Multiple tropical cyclone events (MTCEs) could exacerbate natural hazards, and are important but difficult for prediction. Understanding the mechanism and potential changes in MTCE under a warmer climate are crucial for effective risk management and ensuring human safety, however, it remains tricky. Based on an objective method called K-means, this study first explores the corresponding large-scale environment and dynamic conditions of three clustered types of MTCEs over the western North Pacific (WNP). After that, we propose a ternary linear regression model to predict the interannual variability of WNP-MTCEs. Furthermore, we project changes in MTCEs by 2050 in the major basins of the Northern Hemisphere (NH) using high-resolution climate models. Results show that a significant increase in the frequency and duration of MTCEs over the North Atlantic is tied to vertical wind shear, and a notable decrease over the WNP is attributed to mid-level vertical motion. These findings give a first understanding of future changes in MTCEs and give implications for disaster mitigation and prevention among countries in the NH. To further facilitate the understanding between MTCE change and TC genesis frequency and seasonality, we propose a Probalistic MTCE model. This part of research is ongoing...
 
 <div  align="center"> 
-<br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/sati.png" width = "600"  alt="Graphical Abstract"><br/></div>
+<br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/sati.png" width = "600"  alt="Graphical Abstract"><br/>
+</div>
 <center>
   A satellite image of MTCE, taken on September 14, 2022, from <a href=http://agora.ex.nii.ac.jp/digital-typhoon/>digital-typhoon</a>
 </center>
