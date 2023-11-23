@@ -19,11 +19,11 @@ to the climate system, largely independent of global sea surface temperature for
 upper troposphere westerly waveguide is robust, offering hopes to improve the sub-seasonal prediction of extreme events 
 in East Asia. 
 
-<div  align="center"> 
+<font size=5><div  align="center"> 
  <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract" align = center/>
 
-<font size=1>Flash flooding in Pakistan ([left](https://time.com/search/?q=pakistan%20rainfall)) and extreme drought in China ([right](https://www.bbc.com/news/62751110)) in the summer of 2022.</font>
-</div>
+Flash flooding in Pakistan ([left](https://time.com/search/?q=pakistan%20rainfall)) and extreme drought in China ([right](https://www.bbc.com/news/62751110)) in the summer of 2022.
+</div></font>
 
 Reference:
 * **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2023: Dynamic Pathway Linking Pakistan Flooding 
