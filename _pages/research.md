@@ -22,8 +22,7 @@ in East Asia.
 <div  align="center"> 
 <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract"><br/>
  
- Flash flooding in Pakistan ([left](https://time.com/search/?q=pakistan%20rainfall)) and extreme drought in China ([right](https://www.bbc.com/news/62751110)) in the summer of 2022.
- </div>
+ Flash flooding in Pakistan ([left](https://time.com/search/?q=pakistan%20rainfall)) and extreme drought in China ([right](https://www.bbc.com/news/62751110)) in the summer of 2022.</div>
 
 
 Reference:
@@ -39,8 +38,7 @@ Multiple tropical cyclone events (MTCEs) could exacerbate natural hazards, and a
 <div  align="center"> 
 <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/sati.png" width = "600"  alt="Graphical Abstract"><br/>
  
- A satellite image of MTCE, taken on September 14, 2022, from [digital-typhoon](http://agora.ex.nii.ac.jp/digital-typhoon/)
-</div>
+A satellite image of MTCE, taken on September 14, 2022, from [digital-typhoon](http://agora.ex.nii.ac.jp/digital-typhoon/)</div>
 
 References:
 * **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
