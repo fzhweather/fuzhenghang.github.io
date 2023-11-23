@@ -22,7 +22,7 @@ in East Asia.
 <div  align="center"> 
  <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract" align = center/>
 </div>
-Flash flooding in Pakistan ([left](https://time.com/search/?q=pakistan%20rainfall)) and extreme drought in China ([right](https://www.bbc.com/news/62751110)) in the summer of 2022.
+$$<font size=1>Flash flooding in Pakistan ([left](https://time.com/search/?q=pakistan%20rainfall)) and extreme drought in China ([right](https://www.bbc.com/news/62751110)) in the summer of 2022.</font>$$
 
 Reference:
 * **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2023: Dynamic Pathway Linking Pakistan Flooding 
