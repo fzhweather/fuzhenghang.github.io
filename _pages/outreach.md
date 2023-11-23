@@ -1,4 +1,4 @@
----
+![image](https://github.com/fzhweather/fuzhenghang.github.io/assets/111056976/572a9c43-ad80-4ccc-8880-f9fc4facea8d)---
 layout: archive
 title: " "
 permalink: /outreach/
@@ -9,45 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+ZQA Weather Hub of China (中气爱)
 ======
-* B.S. (with Highest Honor) in Atmospheric Sciences, Fudan University, 2023
-* Ph.D in Climate Sciences, Fudan University, 2027 (expected)
+* Core member, 2022-
+* Member, 2020-2022
+  
+ZQA Advances (中气爱科技新知)
+---
+* Group leader, 2022-
 
-
-Manuscripts under Review
+Outreach Acitivities
 ======
-* Zheng-Hang Fu, Wen Zhou*, Shang-Ping Xie*, Ruhua Zhang, and Xudong Wang, 2023: Dynamic Pathway Linking Pakistan Flooding to East Asia Heatwaves. <i>under review</i>
+* Zhuhai, Guangdong, China (August 2023), 2023 Meteorological Youth Scientists Forum and Meteorological Science and Technology Journal Development and Improvement Seminar: **Dissemination, Promotion, and Utilization of Meteorological Research Achievements: Taking ZQA Weather Hub of China as an Example.**
+* Zibo, Shandong, China (August 2023),IQiyi Journey of Creating (爱奇艺随刻创作之旅), **Mini-Meteorology, Mega-World**
 
-Refereed Publications
+
+Seleced Works
 ======
 [2] Zheng-Hang Fu, Ruifen Zhan*, Jiuwei Zhao, Yohei Yamada, and Kexin Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. <i>Geophysical Research Letters</i>. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
 
 [1] Zheng-Hang Fu, Libin Cheng, Xingnan Ye*, Zhen Ma, Ruoyan Wang, Yusen Duan*, Huo Juntao, Jianmin Chen, 2022: Characteristics of aerosol chemistry and acidity in Shanghai after PM2.5 satisfied national guideline: Insight into future emission control, <i>Science of The Total Environment</i>, 154319. [https://doi.org/10.1016/j.scitotenv.2022.154319](https://doi.org/10.1016/j.scitotenv.2022.154319)
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
