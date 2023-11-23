@@ -19,6 +19,10 @@ to the climate system, largely independent of global sea surface temperature for
 upper troposphere westerly waveguide is robust, offering hopes to improve the sub-seasonal prediction of extreme events 
 in East Asia. 
 
+<div  align="center"> 
+ <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract" align = center/>
+</div>
+
 Reference:
 * **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2023: Dynamic Pathway Linking Pakistan Flooding 
 to East Asia Heatwaves. *under review*
