@@ -38,6 +38,6 @@ Selected Awards
 
 News
 ---
-* Nov 2023: I started to set up my personal website.
-* Sep 2023：I started my PhD at Fudan University.
-* June 2023：I graduated from Fudan University.
+* **Nov 2023**: I started to set up my personal website.
+* **Sep 2023**：I started my PhD at Fudan University.
+* **June 2023**：I graduated from Fudan University.
