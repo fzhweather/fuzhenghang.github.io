@@ -38,7 +38,7 @@ Multiple tropical cyclone events (MTCEs) could exacerbate natural hazards, and a
 
 <div  align="center"> 
  <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/sati.png" width = "600"  alt="Graphical Abstract" align = center/>
-
+ 
  A satellite image of MTCE, taken on September 14, 2022, from [digital-typhoon](http://agora.ex.nii.ac.jp/digital-typhoon/)
 </div>
 
