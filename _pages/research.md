@@ -20,7 +20,7 @@ upper troposphere westerly waveguide is robust, offering hopes to improve the su
 in East Asia. 
 
 <div  align="center"> <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract"><br/>
-Flash flooding in Pakistan (<center>[left](https://time.com/search/?q=pakistan%20rainfall)</center> ) and extreme drought in China (<center>[right](https://www.bbc.com/news/62751110)</center> ) in the summer of 2022.</div>
+Flash flooding in Pakistan (< ahref=https://time.com/search/?q=pakistan%20rainfall>left</a>[left](https://time.com/search/?q=pakistan%20rainfall)) and extreme drought in China ([right](https://www.bbc.com/news/62751110)) in the summer of 2022.</div>
 
 
 Reference:
