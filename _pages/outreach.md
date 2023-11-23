@@ -1,4 +1,4 @@
-![image](https://github.com/fzhweather/fuzhenghang.github.io/assets/111056976/572a9c43-ad80-4ccc-8880-f9fc4facea8d)---
+---
 layout: archive
 title: " "
 permalink: /outreach/
