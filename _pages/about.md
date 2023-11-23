@@ -14,7 +14,7 @@ Prior to my graduate study, I received my B.S. in Atmospheric Sciences with [hig
 
 Currently, I am interested in the dynamics of extreme climate/weather events (e.g., heatwaves, floods, tropical cyclones).
 
-You can find my CV here: [Zheng-Hang's Curriculum Vitae](../fuzhenghang.github.io/assets/Curriculum_Vitae.pdf)（updated October 2023）
+You can find my CV here: [Zheng-Hang's Curriculum Vitae](../fuzhenghang.github.io/assets/Curriculum_Vitae_2310.pdf)（updated October 2023）
 
 Education
 ---
