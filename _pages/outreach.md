@@ -25,7 +25,7 @@ Outreach Acitivities
 * Zhuhai, Guangdong, China (August 2023), 2023 Meteorological Youth Scientists Forum and Meteorological Science and Technology Journal Development and Improvement Seminar: **Dissemination, Promotion, and Utilization of Meteorological Research Achievements: Taking ZQA Weather Hub of China as an Example.**
 
 
-* Zibo, Shandong, China (August 2023),IQiyi Journey of Creating (爱奇艺随刻创作之旅), **Mini-Meteorology, Mega-World**
+* Zibo, Shandong, China (August 2023), IQiyi Journey of Creating (爱奇艺随刻创作之旅), **Mini-Meteorology, Mega-World**
 
 <br>
 
