@@ -22,7 +22,6 @@ in East Asia.
 <div  align="center"> 
  <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract">
  
-
 Flash flooding in Pakistan ([left](https://time.com/search/?q=pakistan%20rainfall)) and extreme drought in China ([right](https://www.bbc.com/news/62751110)) in the summer of 2022.
 </div>
 
@@ -38,6 +37,8 @@ Multiple tropical cyclone events (MTCEs) could exacerbate natural hazards, and a
 
 <div  align="center"> 
  <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/sati.png" width = "600"  alt="Graphical Abstract" align = center/>
+
+ A satellite image of MTCE, taken on September 14, 2022, from [digital-typhoon](http://agora.ex.nii.ac.jp/digital-typhoon/)
 </div>
 
 References:
