@@ -31,9 +31,18 @@ Outreach Acitivities
 
 Selected Works
 ======
-[2] Zheng-Hang Fu, Ruifen Zhan*, Jiuwei Zhao, Yohei Yamada, and Kexin Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. <i>Geophysical Research Letters</i>. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
+* **July 2023**, [Super typhoon Doksuri will make landfall, while new typhoon Kanu is brewing. The changes in Multiple tropical cyclone events under climate change(超强台风杜苏芮将登陆，新台风卡努又酝酿，气候变化背景下台风群发的变化)](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3) (Introductive )
+* **July 2023**, [El Nino reappearance, the high temperature in Beijing and rainstorm in Chongqing may be related to it (厄尔尼诺再现，北京高温、重庆暴雨可能都和它有关)](https://www.bilibili.com/video/BV1ma4y1F7kj?t=0.9) (Collaborated with **[人民日报](https://paper.people.com.cn)**!)
 
+* **July 2023**, [Nature from HUAWEI. This time it's related to the weather forecast (华为登顶Nature，这一次和天气预报有关)](https://www.bilibili.com/video/BV1mN411S7Cs?t=122.2)(Collaborated with **[HUAWEI](https://www.huawei.com/cn/)**!)
 
-[1] Zheng-Hang Fu, Libin Cheng, Xingnan Ye*, Zhen Ma, Ruoyan Wang, Yusen Duan*, Huo Juntao, Jianmin Chen, 2022: Characteristics of aerosol chemistry and acidity in Shanghai after PM2.5 satisfied national guideline: Insight into future emission control, <i>Science of The Total Environment</i>, 154319. [https://doi.org/10.1016/j.scitotenv.2022.154319](https://doi.org/10.1016/j.scitotenv.2022.154319)
+* **June 2023**, [El Niño is Coming. 2023 would be hotest year on record? (厄尔尼诺就要来了，2023年是最热一年吗？)](https://www.bilibili.com/video/BV1yz4y1v7PG?t=1.3)
 
-  
+* **Apr 2023**, [谢尚平教授新书 | 海气耦合动力学：从厄尔尼诺到气候变化](https://mp.weixin.qq.com/s/PiGnQKZaiX43Es9h4avyFg)
+
+* **Sep 2022**, [When Desert Becomes Giant Lake - The Story of the Historic Pakistan Flooding (当沙漠变成巨湖-巴基斯坦世纪洪灾和它背后的底层逻辑)](https://www.bilibili.com/video/BV11g411U7fp?t=1.6)
+
+* **Aug 2022**, [Why So Hot This Year? The Story of 2022 Historic Heatwaves (今年为什么热成这样？2022超强高温的底层逻辑)](https://www.bilibili.com/video/BV16a4y1f7Pj?t=1.4)
+
+* **July 2022**, [热化屋顶！南方40度大量批发，三伏天得热成啥样？...](https://www.bilibili.com/video/BV15r4y1E7dQ?t=3.9) (This is my voice-over work)
+
