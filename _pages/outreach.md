@@ -11,20 +11,23 @@ redirect_from:
 
 ZQA Weather Hub of China (中气爱)
 ======
+<br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zqalogo.png" width = "200" ><br/>
 * Core member, 2022-
 * Member, 2020-2022
   
 ZQA Advances (中气爱科技新知)
 ---
+<br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/ZQA_advances.png" width = "200" ><br/>
 * Group leader, 2022-
 
 <br>
 
 Outreach Acitivities
 ======
+<br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zhuhai.png" width = "200" ><br/>
 * Zhuhai, Guangdong, China (August 2023), 2023 Meteorological Youth Scientists Forum and Meteorological Science and Technology Journal Development and Improvement Seminar: **Dissemination, Promotion, and Utilization of Meteorological Research Achievements: Taking ZQA Weather Hub of China as an Example.**
 
-
+<br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zibo.png" width = "200" ><br/>
 * Zibo, Shandong, China (August 2023), IQiyi Journey of Creating (爱奇艺随刻创作之旅), **Mini-Meteorology, Mega-World**
 
 <br>
