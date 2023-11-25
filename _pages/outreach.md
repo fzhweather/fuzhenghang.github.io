@@ -32,13 +32,13 @@ Outreach Acitivities
 Selected Works
 ======
 * **July 2023**, [Super typhoon Doksuri will make landfall, while new typhoon Kanu is brewing. The changes in Multiple tropical cyclone events under climate change(超强台风杜苏芮将登陆，新台风卡努又酝酿，气候变化背景下台风群发的变化)](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3) (Introductive )
-* **July 2023**, [El Nino reappearance, the high temperature in Beijing and rainstorm in Chongqing may be related to it (厄尔尼诺再现，北京高温、重庆暴雨可能都和它有关)](https://www.bilibili.com/video/BV1ma4y1F7kj?t=0.9) (Collaborated with **[人民日报](https://paper.people.com.cn)**!)
+* **July 2023**, [El Nino reoccur. The high temperature in Beijing and rainstorm in Chongqing may be related to it (厄尔尼诺再现，北京高温、重庆暴雨可能都和它有关)](https://www.bilibili.com/video/BV1ma4y1F7kj?t=0.9) (Collaborated with **[人民日报](https://paper.people.com.cn)**!)
 
 * **July 2023**, [Nature from HUAWEI. This time it's related to the weather forecast (华为登顶Nature，这一次和天气预报有关)](https://www.bilibili.com/video/BV1mN411S7Cs?t=122.2)(Collaborated with **[HUAWEI](https://www.huawei.com/cn/)**!)
 
-* **June 2023**, [El Niño is Coming. 2023 would be hotest year on record? (厄尔尼诺就要来了，2023年是最热一年吗？)](https://www.bilibili.com/video/BV1yz4y1v7PG?t=1.3)
+* **June 2023**, [El Niño is Coming. 2023 would be the hottest year on record? (厄尔尼诺就要来了，2023年是最热一年吗？)](https://www.bilibili.com/video/BV1yz4y1v7PG?t=1.3)
 
-* **Apr 2023**, [谢尚平教授新书 | 海气耦合动力学：从厄尔尼诺到气候变化](https://mp.weixin.qq.com/s/PiGnQKZaiX43Es9h4avyFg)
+* **Apr 2023**, [New Textbook of Prof. Shang-Ping Xie \| Coupled Atmosphere-Ocean Dynamics: From El Niño to Climate Change. (谢尚平教授新书 \| 海气耦合动力学：从厄尔尼诺到气候变化)](https://mp.weixin.qq.com/s/PiGnQKZaiX43Es9h4avyFg) (You can buy it via [Elsevier](https://shop.elsevier.com/books/coupled-atmosphere-ocean-dynamics/xie/978-0-323-95490-7) and [Amazon](https://www.amazon.com/Coupled-Atmosphere-Ocean-Dynamics-Climate-Change/dp/0323954901/ref=sr_1_1?crid=1B82YS65QTD5O&keywords=Shang-Ping+Xie&qid=1669782352&sprefix=shang-ping+xie%2Cspecialty-aps%2C138&sr=8-1))
 
 * **Sep 2022**, [When Desert Becomes Giant Lake - The Story of the Historic Pakistan Flooding (当沙漠变成巨湖-巴基斯坦世纪洪灾和它背后的底层逻辑)](https://www.bilibili.com/video/BV11g411U7fp?t=1.6)
 
