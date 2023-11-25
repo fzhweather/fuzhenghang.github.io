@@ -31,7 +31,7 @@ Outreach Acitivities
 
 Selected Works
 ======
-* **July 2023**, [Super typhoon Doksuri will make landfall, while new typhoon Kanu is brewing. The changes in Multiple tropical cyclone events under climate change(超强台风杜苏芮将登陆，新台风卡努又酝酿，气候变化背景下台风群发的变化)](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3) (Introductive )
+* **July 2023**, [Super typhoon Doksuri will make landfall, while new typhoon Kanu is brewing. The changes in Multiple tropical cyclone events under climate change (超强台风杜苏芮将登陆，新台风卡努又酝酿，气候变化背景下台风群发的变化)](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3) (Introductive )
 * **July 2023**, [El Nino reoccur. The high temperature in Beijing and rainstorm in Chongqing may be related to it (厄尔尼诺再现，北京高温、重庆暴雨可能都和它有关)](https://www.bilibili.com/video/BV1ma4y1F7kj?t=0.9) (Collaborated with **[人民日报](https://paper.people.com.cn)**!)
 
 * **July 2023**, [Nature from HUAWEI. This time it's related to the weather forecast (华为登顶Nature，这一次和天气预报有关)](https://www.bilibili.com/video/BV1mN411S7Cs?t=122.2)(Collaborated with **[HUAWEI](https://www.huawei.com/cn/)**!)
