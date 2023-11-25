@@ -35,7 +35,7 @@ I have participated in the creation of following selected outreach works:
 
 * **Oct 2023**, Is the drinking water standard related to the pristine ocean? This study by Fudan University reveals that... (饮用水标准与原始海洋有关？复旦这篇研究揭示了……)](https://www.bilibili.com/video/BV1Sw411Y7ja?t=9.3 [Link](Collaborated with [Prof. Zimeng Wang](http://www.zimengwang.org.cn).)
   
-* **July 2023**, Super typhoon Doksuri will make landfall, while new typhoon Kanu is brewing. The changes in Multiple tropical cyclone events under climate change (超强台风杜苏芮将登陆，新台风卡努又酝酿，气候变化背景下台风群发的变化) [Link](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3) (Introductive )
+* **July 2023**, Super typhoon Doksuri will make landfall, while new typhoon Kanu is brewing. The changes in Multiple tropical cyclone events under climate change (超强台风杜苏芮将登陆，新台风卡努又酝酿，气候变化背景下台风群发的变化) [Link](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3) (Introductive video for [Fu et al. 2023](https://doi.org/10.1029/2023GL103064))
   
 * **July 2023**, El Nino reoccur. The high temperature in Beijing and rainstorm in Chongqing may be related to it (厄尔尼诺再现，北京高温、重庆暴雨可能都和它有关) [Link](https://www.bilibili.com/video/BV1ma4y1F7kj?t=0.9) (Collaborated with **[人民日报](https://paper.people.com.cn)**!)
 
