@@ -25,10 +25,10 @@ ZQA Advances (中气爱科技新知)
 Outreach Acitivities
 ======
 * Zhuhai, Guangdong, China (August 2023), 2023 Meteorological Youth Scientists Forum and Meteorological Science and Technology Journal Development and Improvement Seminar: **Dissemination, Promotion, and Utilization of Meteorological Research Achievements: Taking ZQA Weather Hub of China as an Example.**
-  <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zhuhai.png" width = "400" ><br/>
+  <br/><div  align="center"> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zhuhai.png" width = "500" ></div><br/>
 
 * Zibo, Shandong, China (August 2023), IQiyi Journey of Creating (爱奇艺随刻创作之旅), **Mini-Meteorology, Mega-World**
-<br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zibo.png" width = "400" ><br/>
+<br/><div  align="center"> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zibo.png" width = "500" ></div><br/>
 
 <br>
 
