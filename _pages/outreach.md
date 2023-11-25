@@ -31,7 +31,7 @@ Outreach Acitivities
 
 Selected Works
 ======
-I have participated in the creation of following outreach works:
+I have participated in the creation of following selected outreach works:
 
 * **Oct 2023**, Is the drinking water standard related to the pristine ocean? This study by Fudan University reveals that... (饮用水标准与原始海洋有关？复旦这篇研究揭示了……)](https://www.bilibili.com/video/BV1Sw411Y7ja?t=9.3 [Link](Collaborated with [Prof. Zimeng Wang](http://www.zimengwang.org.cn).)
   
