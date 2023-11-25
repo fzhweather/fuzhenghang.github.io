@@ -21,7 +21,8 @@ Education
 * **Ph.D in Climate Sciences**
   * Fudan University, 2027 (expected)
 
-* B.S. (with Highest Honor) in Atmospheric Sciences, Fudan University, 2023
+* B.S. in Atmospheric Sciences (with Highest Honor)
+  * Fudan University, 2023
 
 Research Interests
 ---
