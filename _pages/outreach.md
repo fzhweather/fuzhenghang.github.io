@@ -42,7 +42,7 @@ I have participated in the creation of following selected outreach works:
   
 * **July 2023**, El Nino reoccur. The high temperature in Beijing and rainstorm in Chongqing may be related to it (厄尔尼诺再现，北京高温、重庆暴雨可能都和它有关) [Link](https://www.bilibili.com/video/BV1ma4y1F7kj?t=0.9) (Collaborated with **[人民日报](https://paper.people.com.cn)**!)
 
-* **July 2023**, Nature from HUAWEI. This time it's related to the weather forecast (华为登顶Nature，这一次和天气预报有关) [Link](https://www.bilibili.com/video/BV1mN411S7Cs?t=122.2)(Collaborated with **[HUAWEI](https://www.huawei.com/cn/)**!)
+* **July 2023**, Nature from HUAWEI. This time it's related to the weather forecast (华为登顶Nature，这一次和天气预报有关) [Link](https://www.bilibili.com/video/BV1mN411S7Cs?t=122.2) (Collaborated with **[HUAWEI](https://www.huawei.com/cn/)**!)
 
 * **June 2023**, El Niño is Coming. 2023 would be the hottest year on record? (厄尔尼诺就要来了，2023年是最热一年吗？) [Link](https://www.bilibili.com/video/BV1yz4y1v7PG?t=1.3)
 
