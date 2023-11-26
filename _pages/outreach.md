@@ -27,7 +27,7 @@ Outreach Acitivities
 * Zhuhai, Guangdong, China (August 2023), 2023 Meteorological Youth Scientists Forum and Meteorological Science and Technology Journal Development and Improvement Seminar: **Dissemination, Promotion, and Utilization of Meteorological Research Achievements: Taking ZQA Weather Hub of China as an Example.**
  <div  align="center">  <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zhuhai.png" width = "500" ><br/></div>
 
-* Zibo, Shandong, China (August 2023), IQiyi Journey of Creating (爱奇艺随刻创作之旅), **Mini-Meteorology, Mega-World**
+* Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻创作之旅), **Mini-Meteorology, Mega-World**
 <div  align="center"> <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zibo.png" width = "500" ><br/></div>
 
 <br>
@@ -38,9 +38,9 @@ I have participated in the creation of following selected outreach works:
 
 * **Oct 2023**, Is the drinking water standard related to the pristine ocean? This study by Fudan University reveals that... (饮用水标准与原始海洋有关？复旦这篇研究揭示了……) [Link](https://www.bilibili.com/video/BV1Sw411Y7ja?t=9.3) (Collaborated with [Prof. Zimeng Wang](http://www.zimengwang.org.cn).)
   
-* **July 2023**, Super typhoon Doksuri will make landfall, while new typhoon Kanu is brewing. The changes in Multiple tropical cyclone events under climate change (超强台风杜苏芮将登陆，新台风卡努又酝酿，气候变化背景下台风群发的变化) [Link](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3) (Introductive video for [Fu et al. 2023](https://doi.org/10.1029/2023GL103064))
+* **July 2023**, Super typhoon Doksuri will make landfall, while new typhoon Kanu is brewing. The changes in multiple tropical cyclone events under climate change (超强台风杜苏芮将登陆，新台风卡努又酝酿，气候变化背景下台风群发的变化) [Link](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3) (Introductive video for [Fu et al. 2023](https://doi.org/10.1029/2023GL103064))
   
-* **July 2023**, El Nino reoccur. The high temperature in Beijing and rainstorm in Chongqing may be related to it (厄尔尼诺再现，北京高温、重庆暴雨可能都和它有关) [Link](https://www.bilibili.com/video/BV1ma4y1F7kj?t=0.9) (Collaborated with **[人民日报](https://paper.people.com.cn)**!)
+* **July 2023**, El Nino reemerge. The high temperature in Beijing and rainstorm in Chongqing may be related to it (厄尔尼诺再现，北京高温、重庆暴雨可能都和它有关) [Link](https://www.bilibili.com/video/BV1ma4y1F7kj?t=0.9) (Collaborated with **[人民日报](https://paper.people.com.cn)**!)
 
 * **July 2023**, Nature from HUAWEI. This time it's related to the weather forecast (华为登顶Nature，这一次和天气预报有关) [Link](https://www.bilibili.com/video/BV1mN411S7Cs?t=122.2) (Collaborated with **[HUAWEI](https://www.huawei.com/cn/)**!)
 
