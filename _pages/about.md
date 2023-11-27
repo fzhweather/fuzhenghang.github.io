@@ -18,7 +18,7 @@ You can find my CV here: [Zheng-Hang's Curriculum Vitae](../files/Curriculum_Vit
 
 Education
 ---
-* **Ph.D in Climate Sciences**
+* **Ph.D in Climate Sciences (Fudan Elite Ph.D Program)**
   * Fudan University, 2023.09-present
 
 * **B.S. in Atmospheric Sciences (with Highest Honor)**
