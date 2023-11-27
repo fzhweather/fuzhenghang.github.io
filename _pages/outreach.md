@@ -18,7 +18,7 @@ ZQA Weather Hub of China (中气爱)
 ZQA Advances (中气爱科技新知)
 ---
 <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/ZQA_advances.png" width = "200" ><br/>
-* Group leader, 2022-
+* Editor-in-chief, 2022-
 
 <br>
 
