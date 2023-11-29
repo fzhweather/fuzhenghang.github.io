@@ -43,7 +43,7 @@ References:
   
 * **Fu, Z.-H.**, and R. Zhan\*, Variability and Predictability of Multiple Tropical Cyclone Events in the western North Pacific: A Cluster Analysis. *In preparation*.
   
-* **Fu, Z.-H.**, and [D. Xi](https://scholar.google.com/citations?user=j69OYfEAAAAJ&hl=en)\*, A Deterministic-Probabilistic Assessment of the Climatology of Multiple Tropical Cyclone Events. *In preparation*. 
+* **Fu, Z.-H.**, and [D. Xi](https://scholar.google.com/citations?user=j69OYfEAAAAJ&hl=en)\*, A Deterministic-Probabilistic Assessment of the Climatology of Multiple Tropical Cyclone Events in the North Atlantic. *In preparation*. 
 
 <br>
 
