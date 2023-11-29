@@ -15,7 +15,7 @@ Manuscripts under Review
 
 Refereed Publications
 ======
-1. **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064) [[Video]](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)
+1. **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064) [[Video](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)]
 
 1. Y. Chen, X. Ye*, Y. Yao, Z. Lv, **Z.-H. Fu**, C. Huang, R. Wang, and J. Chen, 2023: Characteristics and sources of PM2. 5-bound elements in Shanghai during autumn and winter of 2019: Insight into the development of pollution episodes, <i>Science of The Total Environment</i>, 163432. [https://doi.org/10.1016/j.scitotenv.2023.163432](https://doi.org/10.1016/j.scitotenv.2023.163432)
 
