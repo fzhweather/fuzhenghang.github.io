@@ -30,7 +30,7 @@ to East Asia Heatwaves. *under review*
 
 <br>
 
-**Multiple Tropical Cyclone Events in the Northern Hemisphere: Mechanisms, Projections, and the Deterministic-Probabilistic Model**
+**Multiple Tropical Cyclone Events under Climate Change: Mechanisms, Projections, and the Deterministic-Probabilistic Model**
 ---
 Multiple tropical cyclone events (MTCEs) can cause extreme precipitation, winds, and surge storms due to their persistent and accumulated effects beyond the impacts of a single TC, which are important for socioeconomic management but difficult for operational forecast. Understanding the mechanism and potential changes in MTCE under a warmer climate are crucial for effective risk management and ensuring human safety, however, it remains tricky. 
 
