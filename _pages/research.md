@@ -36,7 +36,7 @@ Multiple tropical cyclone events (MTCEs) can cause extreme precipitation, winds,
 
 Based on an objective method called K-means, our study first explores the corresponding large-scale dynamic conditions of three clustered types of MTCEs over the western North Pacific (WNP). After that, we propose a multiple linear regression model to predict the interannual variability of WNP-MTCEs. 
 
-Furthermore, we project changes in MTCEs by 2050 in the major basins of the Northern Hemisphere (NH) using high-resolution climate models. Results show that a significant increase in the frequency and duration of MTCEs over the North Atlantic is tied to vertical wind shear, and a notable decrease over the WNP is attributed to mid-level vertical motion. These findings give a first understanding of future changes in MTCEs and give implications for disaster mitigation and prevention among countries in the NH. 
+Furthermore, we project changes in MTCEs by 2050 in the major basins of the Northern Hemisphere (NH) using high-resolution climate models. Results show that a significant increase in the frequency and duration of MTCEs over the North Atlantic is tied to vertical wind shear, and a notable decrease over the WNP is attributed to mid-level vertical motion. These findings give a first understanding of future changes in MTCEs and give implications for disaster mitigation and prevention among countries in the NH. ([Fu et al. 2023, GRL](https://doi.org/10.1029/2023GL103064))
 
 To further facilitate the understanding between MTCE change and TC genesis frequency and seasonality, we propose a Deterministic-Probabilistic MTCE model. This part of research is ongoing...
 
