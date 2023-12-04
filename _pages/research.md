@@ -39,7 +39,7 @@ Multiple tropical cyclone events (MTCEs) could exacerbate natural hazards, and a
 A satellite image of MTCE, taken on September 14, 2022, from digital-typhoon</div>
 
 References:
-* **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064)
+* **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064), [[Outreach Video](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)], [[News in ZQA](https://mp.weixin.qq.com/s/7mvznfFJ3zn-YFXVp8Q2Kw)], [[News in 科普中国](https://mp.weixin.qq.com/s/COepkUXJVaRqJl3piDYbeg)]
   
 * **Fu, Z.-H.**, and R. Zhan\*, Variability and Predictability of Multiple Tropical Cyclone Events in the western North Pacific: A Cluster Analysis. *In preparation*.
   
