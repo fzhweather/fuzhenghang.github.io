@@ -58,5 +58,5 @@ Graphical Abstract of Fu et al. 2022 STOTEN
 </div>
 
 Reference:
-* **Fu, Z.-H.**, L. Cheng, X. Ye\*, Z. Ma, R. Wang, Y. Duan\*, J. Huo, and J. Chen, 2022: Characteristics of aerosol chemistry and acidity in Shanghai after PM2.5 satisfied national guideline: Insight into future emission control, *Science of The Total Environment*, 154319. [https://doi.org/10.1016/j.scitotenv.2022.154319](https://doi.org/10.1016/j.scitotenv.2022.154319)
+* **Fu, Z.-H.**, L. Cheng, X. Ye\*, Z. Ma, R. Wang, Y. Duan\*, J. Huo, and J. Chen, 2022: Characteristics of aerosol chemistry and acidity in Shanghai after PM2.5 satisfied national guideline: Insight into future emission control, *Science of The Total Environment*, 154319. [https://doi.org/10.1016/j.scitotenv.2022.154319](https://doi.org/10.1016/j.scitotenv.2022.154319), [[News in ZQA](https://mp.weixin.qq.com/s/SDDta5D2V5ApiQN0eOCOFQ)]
 
