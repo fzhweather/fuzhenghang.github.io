@@ -38,7 +38,7 @@ Based on an objective method called K-means, our study first explores the corres
 
 Furthermore, we project changes in MTCEs by 2050 in the major basins of the Northern Hemisphere (NH) using high-resolution climate models. Results show that a significant increase in the frequency and duration of MTCEs over the North Atlantic is tied to vertical wind shear, and a notable decrease over the WNP is attributed to mid-level vertical motion. These findings give a first understanding of future changes in MTCEs and give implications for disaster mitigation and prevention among countries in the NH. ([Fu et al. 2023, GRL](https://doi.org/10.1029/2023GL103064))
 
-To further facilitate the understanding between MTCE change and TC genesis frequency and seasonality, we propose a Deterministic-Probabilistic MTCE model. This part of research is ongoing...
+To further facilitate the understanding between MTCE change and TC genesis frequency, TC lifespan and seasonality, we propose a Deterministic-Probabilistic MTCE model. This part of research is ongoing...
 
 <div  align="center"> 
 <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/sati.png" width = "600"  alt="Graphical Abstract"><br/>
