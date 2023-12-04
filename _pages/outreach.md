@@ -35,6 +35,7 @@ Outreach Acitivities
 Selected Works
 ======
 I have participated in the creation of following selected outreach works:
+* **Dec 2023**, El Niño is here! This winter, be wary of three types of weather. (厄尔尼诺事件来了！这个冬天，要警惕三种天气) [Link](https://www.bilibili.com/video/BV1nw411h7Cz?t=173.5)
 
 * **Oct 2023**, Is the drinking water standard related to the pristine ocean? This study by Fudan University reveals that... (饮用水标准与原始海洋有关？复旦这篇研究揭示了……) [Link](https://www.bilibili.com/video/BV1Sw411Y7ja?t=9.3) (Collaborated with [Prof. Zimeng Wang](http://www.zimengwang.org.cn).)
   
