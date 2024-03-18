@@ -43,7 +43,7 @@ Selected Awards
 News
 ---
 * **Mar 2024**: I have been selected to receive an Outstanding Student Presentation Award (OSPA) of AGU2023 meeting!
-* **Dec 2023**: I attended AGU2023 fall meeting in SF, and had one oral presentation about the dynamic pathway linking Pakistan flooding and East Asian heatwaves.
+* **Dec 2023**: I attended AGU2023 fall meeting in San Francisco, and had an oral presentation about the dynamic pathway linking Pakistan flooding to East Asian heatwaves.
 * **Nov 2023**: I started to set up my personal website.
 * **Sep 2023**：I started my PhD at Fudan University.
 * **June 2023**：I graduated from Fudan University.
