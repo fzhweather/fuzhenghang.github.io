@@ -32,6 +32,7 @@ Research Interests
   
 Selected Awards
 ---
+* **Outstanding Student Presentation Award**, American Geophysical Union Fall Meeting 2023
 * **The May Fourth Youth Medal**, Fudan University, 2023 (2 students every year)
 * **The Graduate Star**, Fudan University, 2023 (Highest honor for undergraduates, Top 10 among ~3625)
 * **Outstanding Bachelor Student in Shanghai**, Shanghai Municipal Education Commission, 2023 (Top 5%)
