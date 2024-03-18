@@ -9,7 +9,7 @@ Latest Update: 18 Mar 2023
 
 Manuscripts under Review
 ======
-* **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2023: Dynamic Pathway Linking Pakistan Flooding to East Asia Heatwaves.  *Science Advances*, minor revisions
+* **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding to East Asian Heatwaves.  *Science Advances*, minor revisions
 
 <br>
 
