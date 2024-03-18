@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in the [Department of Atmospheric and Oceanic Sciences](https://atmsci.fudan.edu.cn) at [Fudan University](https://www.fudan.edu.cn), co-advised by [Prof. Wen Zhou](https://atmsci.fudan.edu.cn/97/c3/c14809a432067/page.htm) and [Prof. Shang-Ping Xie](http://sxie.ucsd.edu) (from [Scripps](https://scripps.ucsd.edu/)). 
+I am a first year Ph.D. student in the [Department of Atmospheric and Oceanic Sciences](https://atmsci.fudan.edu.cn) at Fudan University, co-advised by [Prof. Wen Zhou](https://atmsci.fudan.edu.cn/97/c3/c14809a432067/page.htm) and [Prof. Shang-Ping Xie](http://sxie.ucsd.edu) (from Scripps). 
 
-Before embarking on my Ph.D. journey, I graduated with [the highest honors](https://mp.weixin.qq.com/s/IrSmcYiTu8evdjnnex3WtQ), earning a B.S. in Atmospheric Sciences from Fudan University in June 2023. In my sophomore year, I conducted my first research project on air quality under the supervision of [Prof. Xingnan Ye](https://environment.fudan.edu.cn/5b/8b/c30977a351115/page.htm) from the Department of Environmental Science and Engineering, Fudan University. After one year of training, I joined [Prof. Ruifen Zhan](https://atmsci.fudan.edu.cn/79/c2/c14809a162242/page.htm)’s team to investigate multiple tropical cyclone events (MTCEs), supported by [Fudan’s Undergraduate Research Opportunities Program (FDUROP)](https://www.fudan.edu.cn/2019/0423/c515a95967/page.htm). 
+Before embarking on my Ph.D. journey, I graduated with the highest honors, earning a B.S. in Atmospheric Sciences from Fudan University in June 2023. In my sophomore year, I conducted my first research project on air quality under the supervision of Prof. Xingnan Ye from the Department of Environmental Science and Engineering, Fudan University. After one year of training, I joined Prof. Ruifen Zhan’s team to investigate multiple tropical cyclone events (MTCEs), supported by Fudan’s Undergraduate Research Opportunities Program (FDUROP). 
 
 My current research focuses on the dynamics of extreme climate/weather events, including heatwaves, floods, and tropical cyclones.
 
@@ -41,6 +41,8 @@ Selected Awards
 
 News
 ---
+* **Mar 2024**: I have been selected to receive an Outstanding Student Presentation Award (OSPA) of AGU2023 meeting!
+* **Dec 2023**: I attended AGU2023 fall meeting in SF, and had one oral presentation about the dynamic pathway linking Pakistan flooding and East Asian heatwaves.
 * **Nov 2023**: I started to set up my personal website.
 * **Sep 2023**：I started my PhD at Fudan University.
 * **June 2023**：I graduated from Fudan University.
