@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first year Ph.D. student in the [Department of Atmospheric and Oceanic Sciences](https://atmsci.fudan.edu.cn) at Fudan University, co-advised by [Prof. Wen Zhou](https://atmsci.fudan.edu.cn/97/c3/c14809a432067/page.htm) and [Prof. Shang-Ping Xie](http://sxie.ucsd.edu) (from Scripps). 
 
-Before embarking on my Ph.D. journey, I graduated with the highest honors, earning a B.S. in Atmospheric Sciences from Fudan University in June 2023. In my sophomore year, I conducted my first research project on air quality under the supervision of Prof. Xingnan Ye from the Department of Environmental Science and Engineering, Fudan University. After one year of training, I joined Prof. Ruifen Zhan’s team to investigate multiple tropical cyclone events (MTCEs), supported by Fudan’s Undergraduate Research Opportunities Program (FDUROP). 
+Before embarking on my Ph.D. journey, I earned a B.S. in Atmospheric Sciences from Fudan University in June 2023. In my sophomore year, I conducted my first research project on air quality under the supervision of Prof. Xingnan Ye from the Department of Environmental Science and Engineering, Fudan University. After one year of training, I joined Prof. Ruifen Zhan’s team to investigate multiple tropical cyclone events (MTCEs), supported by Fudan’s Undergraduate Research Opportunities Program (FDUROP). 
 
 My current research focuses on the dynamics of extreme climate/weather events, including heatwaves, floods, and tropical cyclones.
 
