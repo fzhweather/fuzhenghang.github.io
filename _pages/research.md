@@ -7,7 +7,7 @@ author_profile: true
 
 Lastest Update: 26 Mar 2024
 
-**Dynamic pathway linking Pakistan flooding to East Asia heatwaves**
+**Dynamic pathway linking Pakistan flooding to East Asian heatwaves**
 ---
 In July–August 2022, Pakistan suffered historic flooding while record-breaking heatwaves swept southern China, causing severe socio-economic impacts. Similar extreme events have frequently coincided between two regions during the past 44 years, but the underlying mechanisms remain unclear. Using observations and a suite of model experiments, here we show that the upper-tropospheric divergent wind induced by convective heating over Pakistan excites a barotropic anomalous anti-cyclone over eastern China, which further leads to persistent heatwaves. Atmospheric model ensemble simulation indicates that this dynamic pathway linking Pakistan flooding and East Asian heatwaves is intrinsic to the climate system, largely independent of global sea surface temperature forcing. This dynamic connection is most active during July–August when convective variability is large over Pakistan and the associated divergent flow excites barotropic Rossby waves that propagate eastward along the upper troposphere westerly waveguide. This robust waveguide and the time delay offer hopes for improved sub-seasonal prediction of extreme events in East Asia. 
 
