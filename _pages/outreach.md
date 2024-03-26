@@ -41,6 +41,10 @@ Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻�
 Selected Works
 ======
 I have participated in the creation of following selected outreach works:
+* **Jan 2024**, 最热一年来了！默默承受的海洋值得关注—专访百万科研大奖得主成里京 [link](https://www.bilibili.com/video/BV1RV41197u4?t=17.0)
+
+* **Jan 2024**, 做好科研的秘诀是什么？赵东元院士和中气爱说了三个关键词 [link](https://www.bilibili.com/video/BV1ye411v7wz?t=14.3)
+  
 * **Dec 2023**, El Niño is here! This winter, be wary of three types of weather. (厄尔尼诺事件来了！这个冬天，要警惕三种天气) [Link](https://www.bilibili.com/video/BV1nw411h7Cz?t=173.5)
 
 * **Oct 2023**, Is the drinking water standard related to the pristine ocean? This study by Fudan University reveals that... (饮用水标准与原始海洋有关？复旦这篇研究揭示了……) [Link](https://www.bilibili.com/video/BV1Sw411Y7ja?t=9.3) (Collaborated with [Prof. Zimeng Wang](http://www.zimengwang.org.cn).)
