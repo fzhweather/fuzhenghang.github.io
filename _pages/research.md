@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Lastest Update: 16 Nov 2023
+Lastest Update: 26 Mar 2024
 
 **Dynamic pathway linking Pakistan flooding to East Asia heatwaves**
 ---
@@ -17,8 +17,7 @@ Flash flooding in Pakistan (left) and extreme drought in China (right) in the su
 
 
 Reference:
-* **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding 
-to East Asia Heatwaves. 
+* **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding to East Asian Heatwaves.  *Science Advances*, 10, eadk9250, in press.s
 
 <br>
 
@@ -39,9 +38,9 @@ A satellite image of MTCE, taken on September 14, 2022, from digital-typhoon</di
 References:
 * **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064), [[Outreach Video](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)], [[News in ZQA](https://mp.weixin.qq.com/s/7mvznfFJ3zn-YFXVp8Q2Kw)], [[News in 科普中国](https://mp.weixin.qq.com/s/COepkUXJVaRqJl3piDYbeg)]
   
-* **Fu, Z.-H.**, and R. Zhan\*, Variability and Predictability of Multiple Tropical Cyclone Events in the western North Pacific: A Cluster Analysis. *In preparation*.
+* **Fu, Z.-H.**, and R. Zhan\*, 2024: Objective clusters of multiple tropical cyclone events over the western North Pacific: physical process and seasonal prediction. *In preparation*.
   
-* **Fu, Z.-H.**, and [D. Xi](https://scholar.google.com/citations?user=j69OYfEAAAAJ&hl=en)\*, A Deterministic-Probabilistic Assessment of the Climatology of Multiple Tropical Cyclone Events. *In preparation*. 
+* **Fu, Z.-H.**, [D. Xi](https://scholar.google.com/citations?user=j69OYfEAAAAJ&hl=en)\* et al., 2024: Disentangling changes of global multiple tropical cyclone events in a warming climate. *In preparation*. 
 
 <br>
 
