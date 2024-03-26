@@ -25,7 +25,7 @@ ZQA Advances (中气爱科技新知)
 Outreach Acitivities
 ======
 <div  align="center">  <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/gezhi.png" width = "500" ><br/></div>
-<br/>Beijing, China (Jan 2024), 中科院格致论道讲坛: **Embark on the Scientific Research with Passion.**<br/>
+Beijing, China (Jan 2024), 中科院格致论道讲坛: **Embark on the Scientific Research with Passion.**
 
 <div  align="center">  <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/up23.png" width = "500" ><br/></div>
 * Shanghai, China (Jan 2024), **BILIBILI POWER UP 2023 (2023年B站百大UP主颁奖典礼)**
