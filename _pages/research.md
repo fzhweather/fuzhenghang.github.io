@@ -40,7 +40,7 @@ References:
   
 * **Fu, Z.-H.**, and R. Zhan\*, 2024: Objective clusters of multiple tropical cyclone events over the western North Pacific: physical process and seasonal prediction. *In preparation*.
   
-* **Fu, Z.-H.**, [D. Xi](https://scholar.google.com/citations?user=j69OYfEAAAAJ&hl=en)\* et al., 2024: Disentangling changes of global multiple tropical cyclone events in a warming climate. *In preparation*. 
+* **Fu, Z.-H.**, D. Xi et al., 2024: Disentangling changes of global multiple tropical cyclone events in a warming climate. *In preparation*. 
 
 <br>
 
