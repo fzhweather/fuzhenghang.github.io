@@ -9,15 +9,7 @@ Lastest Update: 16 Nov 2023
 
 **Dynamic pathway linking Pakistan flooding to East Asia heatwaves**
 ---
-In July–August 2022, Pakistan suffered historic flooding while record-breaking heatwaves swept southern China, 
-causing severe socio-economic impacts. Similar extreme events have frequently coincided between two regions during 
-the past 44 years, but the underlying mechanisms remain unclear. Here we use observations and a suite of model experiments 
-to show that the upper-tropospheric divergent wind induced by convective heating over Pakistan excites a stationary 
-anomalous anti-cyclone over eastern China, which further leads to persistent heatwaves. Atmospheric model ensemble 
-simulation further indicates that this dynamic pathway linking Pakistan flooding and East Asia heatwaves is intrinsic 
-to the climate system, largely independent of global sea surface temperature forcing. This dynamic connection via the 
-upper troposphere westerly waveguide is robust, offering hopes to improve the sub-seasonal prediction of extreme events 
-in East Asia. 
+In July–August 2022, Pakistan suffered historic flooding while record-breaking heatwaves swept southern China, causing severe socio-economic impacts. Similar extreme events have frequently coincided between two regions during the past 44 years, but the underlying mechanisms remain unclear. Using observations and a suite of model experiments, here we show that the upper-tropospheric divergent wind induced by convective heating over Pakistan excites a barotropic anomalous anti-cyclone over eastern China, which further leads to persistent heatwaves. Atmospheric model ensemble simulation indicates that this dynamic pathway linking Pakistan flooding and East Asian heatwaves is intrinsic to the climate system, largely independent of global sea surface temperature forcing. This dynamic connection is most active during July–August when convective variability is large over Pakistan and the associated divergent flow excites barotropic Rossby waves that propagate eastward along the upper troposphere westerly waveguide. This robust waveguide and the time delay offer hopes for improved sub-seasonal prediction of extreme events in East Asia. 
 
 <div  align="center"> <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/333.png" width = "600"  alt="Graphical Abstract"><br/>
 Flash flooding in Pakistan (left) and extreme drought in China (right) in the summer of 2022.</div>
@@ -25,8 +17,8 @@ Flash flooding in Pakistan (left) and extreme drought in China (right) in the su
 
 
 Reference:
-* **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2023: Dynamic Pathway Linking Pakistan Flooding 
-to East Asia Heatwaves. *under review*
+* **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding 
+to East Asia Heatwaves. 
 
 <br>
 
