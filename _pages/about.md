@@ -14,7 +14,7 @@ Before embarking on my Ph.D. journey, I earned a B.S. in Atmospheric Sciences fr
 
 My current research focuses on the dynamics of extreme climate/weather events, including heatwaves, floods, and tropical cyclones.
 
-You can find my CV here: [Zheng-Hang's Curriculum Vitae](../files/Curriculum_Vitae_2310.pdf) (updated October 2023)
+You can find my CV here: [Zheng-Hang's Curriculum Vitae](../files/Curriculum_Vitae_2403.pdf) (updated March 2024)
 
 Education
 ---
