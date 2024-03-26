@@ -9,7 +9,7 @@ Latest Update: 26 Mar 2024
 
 Manuscript(s) under Review
 ======
-* Wang, X., R. Zhang, Z.-H. Fu, Z.-Q. Zhou, Y. Zhang, and D. Jin, 2024: iRecord-breaking terrestrial and marine heatwaves in Southeast Asia driven by internal variability during the 2020-2022 triple-dip La Niña, *submitted*
+* Wang, X., R. Zhang, **Z.-H. Fu**, Z.-Q. Zhou, Y. Zhang, and D. Jin, 2024: iRecord-breaking terrestrial and marine heatwaves in Southeast Asia driven by internal variability during the 2020-2022 triple-dip La Niña, *submitted*
 
 <br>
 
