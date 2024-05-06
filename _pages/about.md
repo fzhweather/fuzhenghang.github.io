@@ -42,7 +42,7 @@ Selected Awards
 
 News
 ---
-* **Apr 2024**: Check out our new and cover paper in *Science Advances*! We show that Pakistan is a “sweet spot” for heavy rainfall there to perturb the westerly jet, leading further to persistent heatwaves in East Asia downstream. [Link to paper](https://doi.org/10.1126/sciadv.adk9250)
+* **Apr 2024**: Check out our [new and cover paper]((https://doi.org/10.1126/sciadv.adk9250)) in *Science Advances*! We show that Pakistan is a “sweet spot” for heavy rainfall there to perturb the westerly jet, leading further to persistent heatwaves in East Asia downstream.
 * **Mar 2024**: I have been selected to receive an Outstanding Student Presentation Award (OSPA) of AGU2023 meeting.
 * **Dec 2023**: I attended AGU2023 fall meeting in San Francisco, and had an oral presentation about the dynamic pathway linking Pakistan flooding to East Asian heatwaves.
 * **Nov 2023**: I started to set up my personal website.
