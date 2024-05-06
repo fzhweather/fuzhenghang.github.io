@@ -41,6 +41,8 @@ Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻�
 Selected Works
 ======
 I have participated in the creation of following selected outreach works:
+* **Apr 2024**, 这个B站的专属天气报幕员，也正在突破科研难关… [Link](https://www.bilibili.com/video/BV1ux4y167h8?t=14.1)
+  
 * **Jan 2024**, 最热一年来了！默默承受的海洋值得关注—专访百万科研大奖得主成里京 [Link](https://www.bilibili.com/video/BV1RV41197u4?t=17.0)
 
 * **Jan 2024**, 做好科研的秘诀是什么？赵东元院士和中气爱说了三个关键词 [Link](https://www.bilibili.com/video/BV1ye411v7wz?t=14.3)
