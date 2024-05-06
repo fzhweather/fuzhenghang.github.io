@@ -30,11 +30,11 @@ Beijing, China (Jan 2024), Gezhi Talks (中科院格致论道讲坛): Embark on 
 <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/up23.png" width = "500" ><br/>
 Shanghai, China (Jan 2024), BILIBILI POWER UP 2023 (2023年B站百大UP主颁奖典礼), [Link](https://www.bilibili.com/video/BV1PG411k73C?t=4.3)
 
-<div  align="center">  <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zhuhai.png" width = "500" ><br/>
-Zhuhai, Guangdong, China (August 2023), 2023 Meteorological Youth Scientists Forum and Meteorological Science and Technology Journal Development and Improvement Seminar: Dissemination, Promotion, and Utilization of Meteorological Research Achievements: Taking ZQA Weather Hub of China as an Example</div>
+<br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zhuhai.png" width = "500" ><br/>
+Zhuhai, Guangdong, China (August 2023), 2023 Meteorological Youth Scientists Forum and Meteorological Science and Technology Journal Development and Improvement Seminar: Dissemination, Promotion, and Utilization of Meteorological Research Achievements: Taking ZQA Weather Hub of China as an Example
 
-<div  align="center"> <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zibo.png" width = "500" ><br/>
-Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻创作之旅), Mini-Meteorology, Mega-World</div>
+<br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zibo.png" width = "500" ><br/>
+Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻创作之旅), Mini-Meteorology, Mega-World
 
 <br>
 
