@@ -41,7 +41,7 @@ Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻�
 Selected Works
 ======
 I have participated in the creation of following selected outreach works:
-* **Jun 2024**, 高温来了！诶？狂风骤雨也来了！近期北方天气这么“抽象”，到底咋回事？[Link]([https://www.bilibili.com/video/BV1z4421S7VS?t=0.1]) (Collaborated with **新华社**!)
+* **Jun 2024**, 高温来了！诶？狂风骤雨也来了！近期北方天气这么“抽象”，到底咋回事？[Link](https://www.bilibili.com/video/BV1z4421S7VS?t=0.1) (Collaborated with **新华社**!)
  
 * **Apr 2024**, 这个B站的专属天气报幕员，也正在突破科研难关… [Link](https://www.bilibili.com/video/BV1ux4y167h8?t=0.1)
   
