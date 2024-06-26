@@ -17,7 +17,7 @@ A dry, cracked riverbed near Poyang Lake, China, October 2022. Credit: Dike Su/Z
 
 
 Reference:
-* **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding to East Asian Heatwaves.  *Science Advances*, 10, eadk9250. [https://doi.org/10.1126/sciadv.adk9250](https://doi.org/10.1126/sciadv.adk9250), [[Magazine cover](https://www.science.org/toc/sciadv/10/17)], [[News in ScienceAAAS](https://mp.weixin.qq.com/s/dqmqV2ZevYTttXfibBjWPQ)], [[News in Fudan](https://mp.weixin.qq.com/s/t2_pPWxon32wvIfiX46cFQ)]
+* **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding to East Asian Heatwaves.  *Science Advances*, 10, eadk9250. [https://doi.org/10.1126/sciadv.adk9250](https://doi.org/10.1126/sciadv.adk9250), [[Magazine cover](https://www.science.org/toc/sciadv/10/17)], [[News in ScienceAAAS](https://mp.weixin.qq.com/s/dqmqV2ZevYTttXfibBjWPQ)], [[News in Fudan](https://news.fudan.edu.cn/2024/0514/c2463a140578/page.htm)]
 
 <br>
 
@@ -40,7 +40,7 @@ References:
   
 * **Fu, Z.-H.**, and R. Zhan\*, 2024: Objective clusters of multiple tropical cyclone events over the western North Pacific: physical process and seasonal prediction. *In preparation*.
   
-* **Fu, Z.-H.**, D. Xi et al., 2024: Disentangling changes of global multiple tropical cyclone events in a warming climate. *In preparation*. 
+* **Fu, Z.-H.** et al., 2024: Disentangling changes of global multiple tropical cyclone events in a warming climate. *In preparation*. 
 
 <br>
 
