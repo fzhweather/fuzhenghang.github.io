@@ -15,7 +15,7 @@ Manuscript(s) under Review
 
 Refereed Publications
 ======
-1. **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding to East Asian Heatwaves.  *Science Advances*, 10, eadk9250. [https://doi.org/10.1126/sciadv.adk9250](https://doi.org/10.1126/sciadv.adk9250), [[Magazine cover](https://www.science.org/toc/sciadv/10/17)], [[News in ScienceAAAS](https://mp.weixin.qq.com/s/dqmqV2ZevYTttXfibBjWPQ)], [[News in Fudan](https://mp.weixin.qq.com/s/t2_pPWxon32wvIfiX46cFQ)]
+1. **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding to East Asian Heatwaves.  *Science Advances*, 10, eadk9250. [https://doi.org/10.1126/sciadv.adk9250](https://doi.org/10.1126/sciadv.adk9250), [[Magazine cover](https://www.science.org/toc/sciadv/10/17)], [[News in ScienceAAAS](https://mp.weixin.qq.com/s/dqmqV2ZevYTttXfibBjWPQ)], [[News in Fudan](https://news.fudan.edu.cn/2024/0514/c2463a140578/page.htm)]
    
 1. **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064), [[Outreach Video](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)], [[News in ZQA](https://mp.weixin.qq.com/s/7mvznfFJ3zn-YFXVp8Q2Kw)], [[News in 科普中国](https://mp.weixin.qq.com/s/COepkUXJVaRqJl3piDYbeg)]
 
