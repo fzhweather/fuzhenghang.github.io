@@ -42,7 +42,7 @@ Selected Awards
 
 News
 ---
-* **June 2024**: I attended the AOGS2024 meeting in Pyeongchang, South Korea, and presented a poster for our [recent work](https://doi.org/10.1126/sciadv.adk9250). [Poster PDF](../files/poster_2406.pdf)
+* **June 2024**: I attended the AOGS2024 meeting in Pyeongchang, South Korea, and presented a poster for our recent work. [Poster PDF](../files/poster_2406.pdf)
 * **May 2024**: I attended the 2024 PhD Student Forum on Climate Change in Nanjing University, and won the Best Oral Presentation Award. 
 * **May 2024**: I attended the 9th Young Scientist Forum of Earth Science in Xiamen, and won the OSPA. 
 * **Apr 2024**: Check out our [new and cover paper]((https://doi.org/10.1126/sciadv.adk9250)) in *Science Advances*! We show that Pakistan is a “sweet spot” for heavy rainfall there to perturb the westerly jet, leading further to persistent heatwaves in East Asia downstream.
