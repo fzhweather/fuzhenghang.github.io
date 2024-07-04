@@ -32,7 +32,8 @@ Research Interests
   
 Selected Awards
 ---
-* **Outstanding Student Presentation Award**, American Geophysical Union Fall Meeting 2023
+* **Best Student Poster Award**, AOGS Annual Meeting 2024
+* **Outstanding Student Presentation Award**, AGU Fall Meeting 2023
 * **The May Fourth Youth Medal**, Fudan University, 2023 (2 students every year)
 * **The Graduate Star**, Fudan University, 2023 (Highest honor for undergraduates, Top 10 among ~3625)
 * **Outstanding Bachelor Student in Shanghai**, Shanghai Municipal Education Commission, 2023 (Top 5%)
@@ -42,7 +43,7 @@ Selected Awards
 
 News
 ---
-* **June 2024**: I attended the AOGS2024 meeting in Pyeongchang, South Korea, and presented a poster for our recent work. [Poster PDF](../files/poster_2406.pdf)
+* **June 2024**: I attended the AOGS2024 meeting in Pyeongchang, South Korea, and presented a poster for our recent work, and won the BSP award. [Poster PDF](../files/poster_2406.pdf)
 * **May 2024**: I attended the 2024 PhD Student Forum on Climate Change in Nanjing University, and won the Best Oral Presentation Award. 
 * **May 2024**: I attended the 9th Young Scientist Forum of Earth Science in Xiamen, and won the OSPA. 
 * **Apr 2024**: Check out our [new and cover paper]((https://doi.org/10.1126/sciadv.adk9250)) in *Science Advances*! We show that Pakistan is a “sweet spot” for heavy rainfall there to perturb the westerly jet, leading further to persistent heatwaves in East Asia downstream.
