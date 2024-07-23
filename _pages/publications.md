@@ -9,7 +9,7 @@ Latest Update: 23 July 2024
 
 Manuscript(s) under Review
 ======
-* **Fu, Z.-H.**\*, Ruifen Zhan, Wen Zhou, 2024: Objective clusters of multiple tropical cyclone events over the western North Pacific: physical process and seasonal prediction, submitted.
+* **Fu, Z.-H.**\*, Ruifen Zhan, Wen Zhou, 2024: Objective clustering of multiple tropical cyclone events over the western North Pacific: Physical process and seasonal prediction, submitted.
 * Wang, X., R. Zhang\*, **Z.-H. Fu**, Z.-Q. Zhou, Y. Zhang, and D. Jin, 2024: Record-breaking terrestrial and marine heatwaves in Southeast Asia driven by internal variability during the 2020-2022 triple-dip La Niña, submitted.
 
 <br>
