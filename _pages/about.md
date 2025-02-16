@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/f7065ef4-19e0-45c5-a94e-527bf7855308)---
 permalink: /
 title: " "
 excerpt: "About me"
@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student in the [Department of Atmospheric and Oceanic Sciences](https://atmsci.fudan.edu.cn) at Fudan University, co-advised by [Prof. Wen Zhou](https://atmsci.fudan.edu.cn/97/c3/c14809a432067/page.htm) and [Prof. Shang-Ping Xie](http://sxie.ucsd.edu) (from Scripps). 
+I am a second year Ph.D. student in the [Department of Atmospheric and Oceanic Sciences](https://atmsci.fudan.edu.cn) at Fudan University, co-advised by [Prof. Wen Zhou](https://atmsci.fudan.edu.cn/97/c3/c14809a432067/page.htm) and [Prof. Shang-Ping Xie](http://sxie.ucsd.edu) (Scripps). 
 
 Before embarking on my Ph.D. journey, I earned a B.S. in Atmospheric Sciences from Fudan University in June 2023. In my sophomore year, I conducted my first research project on air quality under the supervision of Prof. Xingnan Ye from the Department of Environmental Science and Engineering, Fudan University. After one year of training, I joined Prof. Ruifen Zhan’s team to investigate multiple tropical cyclone events (MTCEs), supported by Fudan’s Undergraduate Research Opportunities Program (FDUROP). 
 
 My current research focuses on the dynamics of extreme climate/weather events, including heatwaves, floods, and tropical cyclones.
 
-You can find my CV here: [Zheng-Hang's Curriculum Vitae](../files/Curriculum_Vitae_2406.pdf) (updated June 2024)
+You can find my CV here: [Zheng-Hang's Curriculum Vitae](../files/Curriculum_Vitae_2502.pdf) (updated February 2025)
 
 Education
 ---
@@ -32,17 +32,19 @@ Research Interests
   
 Selected Awards
 ---
+* **Youth Talent Support Program (Ph.D. Students)**, China Association for Science and Technology, 2025
 * **Best Student Poster Award**, AOGS Annual Meeting 2024
 * **Outstanding Student Presentation Award**, AGU Fall Meeting 2023
 * **The May Fourth Youth Medal**, Fudan University, 2023 (2 students every year)
 * **The Graduate Star**, Fudan University, 2023 (Highest honor for undergraduates, Top 10 among ~3625)
 * **Outstanding Bachelor Student in Shanghai**, Shanghai Municipal Education Commission, 2023 (Top 5%)
-* **National Scholarship**, Fudan University, awarded two times in 2021 and 2022 (Top 2%)
+* **National Scholarship**, Fudan University, awarded three times in 2021, 2022 and 2024 
 * **Merit Student Pacesetter**, Fudan University, 2022 (10 students every year)
-* **Academy Star (Innovation and Practice)**, Fudan University, 2021 (10 groups every year)
 
 News
 ---
+* **December 2025**, I received funding from the National Natural Science Foundation of China Youth Student Basic Research Project (Ph.D. Students). Award total: ¥300,000
+* **October 2024**, I was awarded the National Scholarship for PhD students. Award total: ¥30,000
 * **June 2024**: I attended the AOGS2024 meeting in Pyeongchang, South Korea, and won the Best Student Poster (BSP) Award. [Poster PDF](../files/poster_2406.pdf)
 * **May 2024**: I attended the 2024 PhD Student Forum on Climate Change in Nanjing University, and won the Best Oral Presentation Award. 
 * **May 2024**: I attended the 9th Young Scientist Forum of Earth Science in Xiamen, and won the OSPA. 
