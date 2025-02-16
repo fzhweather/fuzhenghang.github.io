@@ -28,7 +28,7 @@ Research Interests
 ---
 * Climate Dynamics
 * Climate/Weather Extremes
-* East Asian Summer Monsoon
+* Coupled Atmosphere-Ocean Dynamics
   
 Selected Awards
 ---
