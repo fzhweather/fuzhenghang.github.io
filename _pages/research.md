@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0f860fb3-34f8-43a9-97ff-1ee16a36efca)![image](https://github.com/user-attachments/assets/58b0612a-88b5-48e7-a46a-a59b66109968)---
+---
 layout: archive
 title: "Research Highlights"
 permalink: /research/
