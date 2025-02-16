@@ -12,7 +12,8 @@ redirect_from:
 ZQA Weather Hub of China (中气爱)
 ======
 <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/zqalogo.png" width = "200" ><br/>
-* Core member, 2022-
+* Co editor-in-chief, 2023-
+* Core member, 2022-2023
 * Member, 2020-2022
   
 ZQA Advances (中气爱科技新知)
@@ -24,6 +25,9 @@ ZQA Advances (中气爱科技新知)
 
 Outreach Acitivities
 ======
+<br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/douyin.jpeg" width = "500" ><br/>
+Shanghai, China (Jan 2025), DOUYIN & Shanghai Library Open Mic (抖音x上海图书馆开放麦): The Cultural and Innovative Value of Meteorological Science Outreach, [Link](https://mp.weixin.qq.com/s/Ff88tSxcmJsCRGcqRRc16g)
+
 <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/gezhi.png" width = "500" ><br/>
 Beijing, China (Jan 2024), Gezhi Talks (中科院格致论道讲坛): Embark on the Scientific Research with Passion, [Link](https://www.bilibili.com/video/BV1ux4y167h8?t=14.1)
 
@@ -41,6 +45,12 @@ Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻�
 Selected Works
 ======
 I have participated in the creation of following selected outreach works:
+* **Jan 2025**, 2024年，气象领域顶刊中的科学趋势有哪些？中气爱为你解读 [Link](https://www.bilibili.com/video/BV1uUwWeLEg7?t=0.1) 
+  
+* **Oct 2024**, 今年为什么这么热？2024年多地极端高温的底层逻辑 [Link](https://www.bilibili.com/video/BV1bBy6YLEYu?t=0.1)
+
+* **July 2024**, 杭州及北方多地突然狂风暴雨，酷热高温要彻底结束了吗？[Link](https://www.bilibili.com/video/BV141421t7tZ?t=0.1)
+
 * **Jun 2024**, 高温来了！诶？狂风骤雨也来了！近期北方天气这么“抽象”，到底咋回事？[Link](https://www.bilibili.com/video/BV1z4421S7VS?t=0.1) (Collaborated with **新华社**!)
  
 * **Apr 2024**, 这个B站的专属天气报幕员，也正在突破科研难关… [Link](https://www.bilibili.com/video/BV1ux4y167h8?t=0.1)
