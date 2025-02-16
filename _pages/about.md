@@ -43,7 +43,7 @@ Selected Awards
 
 News
 ---
-* **December 2025**, I received funding from the National Natural Science Foundation of China Youth Student Basic Research Project (Ph.D. Students). Award total: ¥300,000
+* **December 2024**, I received funding from the National Natural Science Foundation of China Youth Student Basic Research Project (Ph.D. Students). Award total: ¥300,000
 * **October 2024**, I was awarded the National Scholarship for PhD students. Award total: ¥30,000
 * **June 2024**: I attended the AOGS2024 meeting in Pyeongchang, South Korea, and won the Best Student Poster (BSP) Award. [Poster PDF](../files/poster_2406.pdf)
 * **May 2024**: I attended the 2024 PhD Student Forum on Climate Change in Nanjing University, and won the Best Oral Presentation Award. 
