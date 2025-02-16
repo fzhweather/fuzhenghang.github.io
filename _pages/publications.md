@@ -9,7 +9,7 @@ Latest Update: 16 Feb 2025
 
 Manuscript(s) under Review
 ======
-* **$Fu, Z.-H.^+$**, D. Xi^+, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in warming climates, submitted.
+* **Fu, Z.-H.**, [D. Xi^+], S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in warming climates, submitted.
 * **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, submitted.
 * Wang, X., R. Zhang\*, **Z.-H. Fu**, Z.-Q. Zhou, Y. Zhang, and D. Jin, 2025: Record-breaking terrestrial and marine heatwaves in Southeast Asia driven by internal variability during the 2020-2022 triple-dip La Niña, submitted.
 
