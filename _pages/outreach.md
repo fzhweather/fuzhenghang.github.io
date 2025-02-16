@@ -49,7 +49,7 @@ I have participated in the creation of following selected outreach works:
   
 * **Oct 2024**, 今年为什么这么热？2024年多地极端高温的底层逻辑 [Link](https://www.bilibili.com/video/BV1bBy6YLEYu?t=0.1)
 
-* **July 2024**, 杭州及北方多地突然狂风暴雨，酷热高温要彻底结束了吗？[Link](https://www.bilibili.com/video/BV141421t7tZ?t=0.1)
+* **July 2024**, 杭州及北方多地突然狂风暴雨，酷热高温要彻底结束了吗？[Link](https://www.bilibili.com/video/BV141421t7tZ?t=0.1) (Introductive video for [Fu et al. 2024](https://doi.org/10.1126/sciadv.adk9250))
 
 * **Jun 2024**, 高温来了！诶？狂风骤雨也来了！近期北方天气这么“抽象”，到底咋回事？[Link](https://www.bilibili.com/video/BV1z4421S7VS?t=0.1) (Collaborated with **新华社**!)
  
