@@ -40,9 +40,9 @@ A satellite image of MTCE, taken on September 14, 2022, from digital-typhoon</di
 References:
 * **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064), [[Outreach Video](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)], [[News in ZQA](https://mp.weixin.qq.com/s/7mvznfFJ3zn-YFXVp8Q2Kw)], [[News in 科普中国](https://mp.weixin.qq.com/s/COepkUXJVaRqJl3piDYbeg)]
   
-* **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, submitted.
+* **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, *Journal of Climate*, in revision.
   
-* **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in warming climates, submitted. 
+* **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in warming climates, *Nature Climate Change*, in revision
 
 <br>
 
