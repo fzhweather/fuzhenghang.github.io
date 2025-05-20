@@ -5,21 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-Latest Update: 16 Feb 2025
+Latest Update: 20 May 2025
 
 Manuscript(s) under Review
 ======
-* **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in warming climates, *Nature Climate Change*, in revision.
 * **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, *Journal of climate*, in revision.
+* Zhou, W.\*, **Z.-H. Fu**, and R. Zhang, 2025: Emerging tele-connected patterns enhance predictability of East Asian summer extremes, *Journal of Meteorological Research*, in revision.
 * Wang, X., R. Zhang\*, **Z.-H. Fu**, Z.-Q. Zhou, Y. Zhang, and D. Jin, 2025: Record-breaking terrestrial and marine heatwaves in Southeast Asia driven by internal variability during the 2020-2022 triple-dip La Niña, *Journal of climate*, in revision.
 
 <br>
 
 Refereed Publications
 ======
-1. **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic Pathway Linking Pakistan Flooding to East Asian Heatwaves.  *Science Advances*, 10, eadk9250. [https://doi.org/10.1126/sciadv.adk9250](https://doi.org/10.1126/sciadv.adk9250), [[Magazine cover](https://www.science.org/toc/sciadv/10/17)], [[News in ScienceAAAS](https://mp.weixin.qq.com/s/dqmqV2ZevYTttXfibBjWPQ)], [[News in Fudan](https://news.fudan.edu.cn/2024/0514/c2463a140578/page.htm)]
+1. **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in a warming climate, *Nature Climate Change*, accepted.
+  
+1. **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic pathway linking Pakistan flooding to East Asian heatwaves.  *Science Advances*, 10, eadk9250. [https://doi.org/10.1126/sciadv.adk9250](https://doi.org/10.1126/sciadv.adk9250), [[Magazine cover](https://www.science.org/toc/sciadv/10/17)], [[News in ScienceAAAS](https://mp.weixin.qq.com/s/dqmqV2ZevYTttXfibBjWPQ)], [[News in Fudan](https://news.fudan.edu.cn/2024/0514/c2463a140578/page.htm)]
    
-1. **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064), [[Outreach Video](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)], [[News in ZQA](https://mp.weixin.qq.com/s/7mvznfFJ3zn-YFXVp8Q2Kw)], [[News in 科普中国](https://mp.weixin.qq.com/s/COepkUXJVaRqJl3piDYbeg)]
+1. **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future projections of multiple tropical cyclone events in the Northern Hemisphere in the CMIP6-HighResMIP models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064), [[Outreach Video](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)], [[News in ZQA](https://mp.weixin.qq.com/s/7mvznfFJ3zn-YFXVp8Q2Kw)], [[News in 科普中国](https://mp.weixin.qq.com/s/COepkUXJVaRqJl3piDYbeg)]
 
 1. Chen, Y., X. Ye*, Y. Yao, Z. Lv, **Z.-H. Fu**, C. Huang, R. Wang, and J. Chen, 2023: Characteristics and sources of PM2. 5-bound elements in Shanghai during autumn and winter of 2019: Insight into the development of pollution episodes, <i>Science of The Total Environment</i>, 163432. [https://doi.org/10.1016/j.scitotenv.2023.163432](https://doi.org/10.1016/j.scitotenv.2023.163432)
 
