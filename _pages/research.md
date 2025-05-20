@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Lastest Update: 16 Feb 2025
+Lastest Update: 20 May 2025
 
 **Dynamic pathway linking Pakistan flooding to East Asian heatwaves**
 ---
@@ -27,10 +27,9 @@ Multiple tropical cyclones (TC) could be present concurrently within one basin. 
 
 Firstly, We focus on spatial diversity in MTCE occurrence over the western North Pacific (WNP), revealing their underlying mechanisms. Based on spatial features, MTCEs are classified into three clusters: Eastern Induced (EI) cluster, Western Induced in the Nearshore (WI-N) cluster, and Western Induced in the Open Sea (WI-O) cluster. The EI cluster is driven by the strengthened South China Sea summer monsoon, with TCs forming within the monsoon trough and confluence regions. The WI-N cluster primarily arises from the interaction between the monsoon westerlies and easterlies associated with an anomalous anticyclone. The WI-N cluster is characterized by tropical wave trains, potentially linked to TC-induced Rossby wave dispersion and easterly waves. Dynamic genesis potential analysis reveals that enhanced mid-level vertical motion dominates the dynamic factors controlling the MTCE formation across the WNP. Meanwhile, barotropic energy conversions, arising from the convergence and meridional shear of large-scale zonal winds, serve as the primary sources of eddy kinetic energy for MTCE formation. Upper-level baroclinic energy conversions also play a significant role, especially for the WI-N and WI-O clusters. Our findings offer a comprehensive view to better understand the spatial diversity of MTCE over the WNP. (Fu et al. 2025, submitted)
 
-
 Furthermore, we project changes in MTCEs by 2050 in the major basins of the Northern Hemisphere using high-resolution climate models. Results show a significant increase in the frequency and duration of MTCEs over the North Atlantic (NA), a notable decrease over the WNP, and little change over the eastern North Pacific (ENP). The increase in MTCEs over the NA is concentrated in August–September, while the decrease over the WNP occurs in most months. In contrast, the ENP exhibits large yet insignificant seasonal variation, suggesting considerable uncertainty in this basin. Further analysis shows that mid-level vertical motion dominates the MTCE changes over the WNP, while vertical wind shear contributes the most to the NA, which may be linked to future changes in tropical convection. ([Fu et al. 2023, GRL](https://doi.org/10.1029/2023GL103064))
 
-While the WNP has historically been home to the most MTCEs, we further find that the NA has emerged as a MTCE hotspot during recent decades. Using observations and high-resolution climate model simulations, we develop a MTCE probabilistic model, against which we identify outliers as clusters with dynamic interactions between TCs. Recent global warming pattern induces major shifts in MTCE hotspot from the WNP to NA by modulating TC frequency and synoptic-scale wave activity. Our probabilistic modeling indicates a nearly tenfold increase, from 1.6 ± 0.4% to 15.3 ± 1.3%, in the likelihood of MTCE frequency in the NA, surpassing that of the WNP over the past 46 years. (Fu et al. 2025, submitted)
+While the WNP has historically been home to the most MTCEs, we further find that the NA has emerged as a MTCE hotspot during recent decades. Using observations and high-resolution climate model simulations, we develop a probabilistic model assuming that TCs are mutually independent and occur randomly. Against this baseline, we identify outliers as MTCEs with dynamic interactions between TCs. We find that recent global warming pattern induces a hotspot shift in MTCE occurrence from the WNP to the NA by modulating TC frequency and synoptic-scale wave activity. Our probabilistic modeling indicates a tenfold increase in the likelihood of MTCE frequency in the NA surpassing that in the WNP, from 1.4 ± 0.4% to 14.3 ± 1.2% over the past 46 years. (Fu et al. 2025, NCC)
 
 
 <div  align="center"> 
@@ -42,7 +41,7 @@ References:
   
 * **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, *Journal of Climate*, in revision.
   
-* **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in warming climates, *Nature Climate Change*, in revision
+* **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in warming climates, *Nature Climate Change*, accepted.
 
 <br>
 
