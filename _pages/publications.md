@@ -17,7 +17,7 @@ Manuscript(s) under Review
 
 Refereed Publications
 ======
-1. **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in a warming climate, *Nature Climate Change*, accepted.
+1. **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in a warming climate, *Nature Climate Change*, 15, accepted.
   
 1. **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic pathway linking Pakistan flooding to East Asian heatwaves.  *Science Advances*, 10, eadk9250. [https://doi.org/10.1126/sciadv.adk9250](https://doi.org/10.1126/sciadv.adk9250), [[Magazine cover](https://www.science.org/toc/sciadv/10/17)], [[News in ScienceAAAS](https://mp.weixin.qq.com/s/dqmqV2ZevYTttXfibBjWPQ)], [[News in Fudan](https://news.fudan.edu.cn/2024/0514/c2463a140578/page.htm)]
    
