@@ -20,6 +20,8 @@ Education
 ---
 * **Ph.D in Climate Sciences (Fudan Elite Ph.D Program)**
   * Fudan University, 2023.09-present
+  * Visiting Graduate, University of Bergen, 2025.03-2025.04
+  * Visiting Graduate, Scripps Institution of Oceanography, 2025.10-present
 
 * **B.S. in Atmospheric Sciences (with Highest Honor)**
   * Fudan University, 2019.09-2023.06
@@ -43,6 +45,9 @@ Selected Awards
 
 News
 ---
+* **October**: I went on an exchange to the Scripps Institution of Oceanography, UC San Diego, as a Visiting Graduate, working with Prof. Shang-Ping Xie.
+* **July 2025**: Check our [new study]((https://www.nature.com/articles/s41558-025-02397-9)) in *Nature Climate Change*! Our results identify La Niña-like warming pattern as the main culprit that drove tropical cyclone cluster hotspots from the western North Pacific to the North Atlantic in recent decades. 
+* **July 2025**: I attended AOGS2025 meeting in Singapore, and had an oral presentation about the tropical cyclone clusters.
 * **April 2025**, I attended the Workshop on Polar Winter Climate and Processes: Towards Filling Knowledge Gaps in the Understanding of the Coupled Climate System, in Cambridge, UK.
 * **March-April 2025**, I went on an exchange to the University of Bergen as a visiting PhD student, working with Prof. Noel Keenlyside.
 * **December 2024**, I received funding from the National Natural Science Foundation of China Youth Student Basic Research Project (Ph.D. Students). Award total: ¥300,000
