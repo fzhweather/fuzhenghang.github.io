@@ -5,18 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-Latest Update: 20 May 2025
+Latest Update: 15 October 2025
 
 Manuscript(s) under Review
 ======
-* **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, *Journal of climate*, in revision.
-* Zhou, W.\*, **Z.-H. Fu**, and R. Zhang, 2025: Emerging tele-connected patterns enhance predictability of East Asian summer extremes, *Journal of Meteorological Research*, in revision.
 * Wang, X., R. Zhang\*, **Z.-H. Fu**, Z.-Q. Zhou, Y. Zhang, and D. Jin, 2025: Record-breaking terrestrial and marine heatwaves in Southeast Asia driven by internal variability during the 2020-2022 triple-dip La Niña, *Journal of climate*, in revision.
 
 <br>
 
 Refereed Publications
 ======
+1. * Zhou, W.\*, **Z.-H. Fu**, and R. Zhang, 2025: Emerging tele-connected patterns enhance predictability of East Asian summer extremes, *Journal of Meteorological Research*, in revision.
+
+1. * **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, *Journal of climate*, in revision.
+
 1. **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in a warming climate, *Nature Climate Change*, 15, accepted.
   
 1. **Fu, Z.-H.**, W. Zhou\*, S.-P. Xie\*, R. Zhang, and X. Wang, 2024: Dynamic pathway linking Pakistan flooding to East Asian heatwaves.  *Science Advances*, 10, eadk9250. [https://doi.org/10.1126/sciadv.adk9250](https://doi.org/10.1126/sciadv.adk9250), [[Magazine cover](https://www.science.org/toc/sciadv/10/17)], [[News in ScienceAAAS](https://mp.weixin.qq.com/s/dqmqV2ZevYTttXfibBjWPQ)], [[News in Fudan](https://news.fudan.edu.cn/2024/0514/c2463a140578/page.htm)]
