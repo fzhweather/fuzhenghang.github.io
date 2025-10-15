@@ -45,7 +45,7 @@ Selected Awards
 
 News
 ---
-* **October**: I went on an exchange to the Scripps Institution of Oceanography, UC San Diego, as a Visiting Graduate, working with Prof. Shang-Ping Xie.
+* **October 2025**: I went on an exchange to the Scripps Institution of Oceanography, UC San Diego, as a Visiting Graduate, working with Prof. Shang-Ping Xie.
 * **September 2025**: Prof. Wen Zhou led us to the Iceland for the China-Icelandic Arctic Cooperation Research Expedition, where we observed the aurora!
 * **August 2025**: Check our [new study]((https://journals.ametsoc.org/view/journals/clim/38/17/JCLI-D-25-0001.1.xml)) in *Journal of Climate*! Our findings offer a comprehensive view to better understand the spatial diversity of MTCE over the WNP.
 * **July 2025**: Check our [new study]((https://www.nature.com/articles/s41558-025-02397-9)) in *Nature Climate Change*! Our results identify La Niña-like warming pattern as the main culprit that drove tropical cyclone cluster hotspots from the western North Pacific to the North Atlantic in recent decades. 
