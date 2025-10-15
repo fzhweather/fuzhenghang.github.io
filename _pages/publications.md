@@ -15,9 +15,9 @@ Manuscript(s) under Review
 
 Refereed Publications
 ======
-1. * Zhou, W.\*, **Z.-H. Fu**, and R. Zhang, 2025: Emerging tele-connected patterns enhance predictability of East Asian summer extremes, *Journal of Meteorological Research*, 39, 1–12.
+1. * Zhou, W.\*, **Z.-H. Fu**, and R. Zhang, 2025: Emerging tele-connected patterns enhance predictability of East Asian summer extremes, *Journal of Meteorological Research*, 39, 1–12. [https://doi.org/10.1007/s13351-025-5082-5](https://doi.org/10.1007/s13351-025-5082-5)
 
-1. **Fu, Z.-H.**, R. Zhan\*, J. Zhao, Y. Yamada, and K. Song, 2023: Future Projections of Multiple Tropical Cyclone Events in the Northern Hemisphere in the CMIP6-HighResMIP Models. *Geophysical Research Letters*. 50, e2023GL103064. [https://doi.org/10.1029/2023GL103064](https://doi.org/10.1029/2023GL103064), [[Outreach Video](https://www.bilibili.com/video/BV1jc411F7Eg?t=42.3)]
+1. **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, *Journal of Climate*, 38, 4445–4461. [https://doi.org/10.1175/JCLI-D-25-0001.1](https://doi.org/10.1175/JCLI-D-25-0001.1)
   
 1. **Fu, Z.-H.†**, D. Xi†, S.-P. Xie, W. Zhou\*, N. Lin, J. Zhao, X. Wang, and J. C. L. Chan, 2025: Shifting hotspot of tropical cyclone clusters in a warming climate, *Nature Climate Change*, 15, 850–858. [https://doi.org/10.1038/s41558-025-02397-9](https://doi.org/10.1038/s41558-025-02397-9) [[News by WMO](https://wmo.int/media/magazine-article/north-atlantic-faces-more-hurricane-clusters-climate-warms)]
   
