@@ -20,8 +20,8 @@ Education
 ---
 * **Ph.D in Climate Sciences (Fudan Elite Ph.D Program)**
   * Fudan University, 2023.09-present
-  * Visiting Graduate, University of Bergen, 2025.03-2025.04
   * Visiting Graduate, Scripps Institution of Oceanography, 2025.10-present
+  * Visiting Graduate, University of Bergen, 2025.03-2025.04
 
 * **B.S. in Atmospheric Sciences (with Highest Honor)**
   * Fudan University, 2019.09-2023.06
