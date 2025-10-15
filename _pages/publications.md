@@ -15,7 +15,7 @@ Manuscript(s) under Review
 
 Refereed Publications
 ======
-1. * Zhou, W.\*, **Z.-H. Fu**, and R. Zhang, 2025: Emerging tele-connected patterns enhance predictability of East Asian summer extremes, *Journal of Meteorological Research*, 39, 1–12. [https://doi.org/10.1007/s13351-025-5082-5](https://doi.org/10.1007/s13351-025-5082-5)
+1. Zhou, W.\*, **Z.-H. Fu**, and R. Zhang, 2025: Emerging tele-connected patterns enhance predictability of East Asian summer extremes, *Journal of Meteorological Research*, 39, 1–12. In press. [https://doi.org/10.1007/s13351-025-5082-5](https://doi.org/10.1007/s13351-025-5082-5)
 
 1. **Fu, Z.-H.\***, R. Zhan, and W. Zhou, 2025: Spatial diversity of multiple tropical cyclone events over the western North Pacific and associated physical processes, *Journal of Climate*, 38, 4445–4461. [https://doi.org/10.1175/JCLI-D-25-0001.1](https://doi.org/10.1175/JCLI-D-25-0001.1)
   
