@@ -47,8 +47,8 @@ News
 ---
 * **October 2025**: I went on an exchange to the Scripps Institution of Oceanography, UC San Diego, as a Visiting Graduate, working with Prof. Shang-Ping Xie.
 * **September 2025**: Prof. Wen Zhou led us to the Iceland for the China-Icelandic Arctic Cooperation Research Expedition, where we observed the aurora!
-* **August 2025**: Check our [new study]((https://journals.ametsoc.org/view/journals/clim/38/17/JCLI-D-25-0001.1.xml)) in *Journal of Climate*! Our findings offer a comprehensive view to better understand the spatial diversity of MTCE over the WNP.
-* **July 2025**: Check our [new study]((https://www.nature.com/articles/s41558-025-02397-9)) in *Nature Climate Change*! Our results identify La Niña-like warming pattern as the main culprit that drove tropical cyclone cluster hotspots from the western North Pacific to the North Atlantic in recent decades. 
+* **August 2025**: Check our [new study](https://journals.ametsoc.org/view/journals/clim/38/17/JCLI-D-25-0001.1.xml) in *Journal of Climate*! Our findings offer a comprehensive view to better understand the spatial diversity of MTCE over the WNP.
+* **July 2025**: Check our [new study](https://www.nature.com/articles/s41558-025-02397-9) in *Nature Climate Change*! Our results identify La Niña-like warming pattern as the main culprit that drove tropical cyclone cluster hotspots from the western North Pacific to the North Atlantic in recent decades. 
 * **July 2025**: I attended AOGS2025 meeting in Singapore, and had an oral presentation about the tropical cyclone clusters.
 * **April 2025**, I attended the Workshop on Polar Winter Climate and Processes: Towards Filling Knowledge Gaps in the Understanding of the Coupled Climate System, in Cambridge, UK.
 * **March-April 2025**, I went on an exchange to the University of Bergen as a visiting PhD student, working with Prof. Noel Keenlyside.
@@ -57,7 +57,7 @@ News
 * **June 2024**: I attended the AOGS2024 meeting in Pyeongchang, South Korea, and won the Best Student Poster (BSP) Award. [Poster PDF](../files/poster_2406.pdf)
 * **May 2024**: I attended the 2024 PhD Student Forum on Climate Change in Nanjing University, and won the Best Oral Presentation Award. 
 * **May 2024**: I attended the 9th Young Scientist Forum of Earth Science in Xiamen, and won the OSPA. 
-* **Apr 2024**: Check out our [new and cover paper]((https://doi.org/10.1126/sciadv.adk9250)) in *Science Advances*! We show that Pakistan is a “sweet spot” for heavy rainfall there to perturb the westerly jet, leading further to persistent heatwaves in East Asia downstream.
+* **Apr 2024**: Check out our [new and cover paper](https://doi.org/10.1126/sciadv.adk9250) in *Science Advances*! We show that Pakistan is a “sweet spot” for heavy rainfall there to perturb the westerly jet, leading further to persistent heatwaves in East Asia downstream.
 * **Mar 2024**: I have been selected to receive an Outstanding Student Presentation Award (OSPA) of AGU2023 meeting.
 * **Dec 2023**: I attended AGU2023 fall meeting in San Francisco, and had an oral presentation about the dynamic pathway linking Pakistan flooding to East Asian heatwaves.
 * **Nov 2023**: I started to set up my personal website.
