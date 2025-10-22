@@ -19,7 +19,7 @@ ZQA Weather Hub of China (中气爱)
 Outreach HANG (科普航)
 ---
 <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/kepuhang.png" width = "200" ><br/>
-* Personal account
+* Personal account (2025-)
 
 ZQA Advances (中气爱科技新知)
 ---
@@ -30,7 +30,7 @@ ZQA Advances (中气爱科技新知)
 
 Selected Outreach Acitivities
 ======
-<br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/yanguan.jpeg" width = "500" ><br/>
+<br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/yanguan.png" width = "500" ><br/>
 Yanguan, China (Sept 2025), DOUYIN Creator Conference (抖音创作者大会): At the Forefront of Meteorology Outreach.
 
 <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/douyin.jpeg" width = "500" ><br/>
