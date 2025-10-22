@@ -16,6 +16,11 @@ ZQA Weather Hub of China (中气爱)
 * Core member, 2022-2023
 * Member, 2020-2022
   
+Outreach HANG (科普航)
+---
+<br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/kepuhang.png" width = "200" ><br/>
+* Personal account
+
 ZQA Advances (中气爱科技新知)
 ---
 <br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/ZQA_advances.png" width = "200" ><br/>
@@ -23,8 +28,11 @@ ZQA Advances (中气爱科技新知)
 
 <br>
 
-Outreach Acitivities
+Selected Outreach Acitivities
 ======
+<br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/yanguan.jpeg" width = "500" ><br/>
+Yanguan, China (Sept 2025), DOUYIN Creator Conference (抖音创作者大会): At the Forefront of Meteorology Outreach.
+
 <br/><img src="https://fzhweather.github.io/fuzhenghang.github.io/images/douyin.jpeg" width = "500" ><br/>
 Shanghai, China (Jan 2025), DOUYIN & Shanghai Library Open Mic (抖音x上海图书馆开放麦): The Cultural and Innovative Value of Meteorological Science Outreach, [Link](https://mp.weixin.qq.com/s/Ff88tSxcmJsCRGcqRRc16g)
 
@@ -45,6 +53,8 @@ Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻�
 Selected Works
 ======
 I have participated in the creation of following selected outreach works:
+* **October 2025**, 10月上中旬 南北方气温差别为何这么大？[Link](https://www.bilibili.com/video/BV1AwWDztEoB?t=0.1)(Collaborated with **新华社**)
+
 * **Jan 2025**, 2024年，气象领域顶刊中的科学趋势有哪些？中气爱为你解读 [Link](https://www.bilibili.com/video/BV1uUwWeLEg7?t=0.1) 
   
 * **Oct 2024**, 今年为什么这么热？2024年多地极端高温的底层逻辑 [Link](https://www.bilibili.com/video/BV1bBy6YLEYu?t=0.1)
