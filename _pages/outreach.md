@@ -53,7 +53,7 @@ Zibo, Shandong, China (August 2023), IQIYI Journey of Creating (爱奇艺随刻�
 Selected Works
 ======
 I have participated in the creation of following selected outreach works:
-* **October 2025**, 10月上中旬 南北方气温差别为何这么大？[Link](https://www.bilibili.com/video/BV1AwWDztEoB?t=0.1)(Collaborated with **新华社**)
+* **October 2025**, 10月上中旬 南北方气温差别为何这么大？[Link](https://www.bilibili.com/video/BV1AwWDztEoB?t=0.1) (Collaborated with **新华社**)
 
 * **Jan 2025**, 2024年，气象领域顶刊中的科学趋势有哪些？中气爱为你解读 [Link](https://www.bilibili.com/video/BV1uUwWeLEg7?t=0.1) 
   
