@@ -18,7 +18,7 @@ ZQA Weather Hub of China (中气爱)
   
 Outreach HANG (科普航)
 ---
-<br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/kepuhang.png" width = "200" ><br/>
+<br/> <img src="https://fzhweather.github.io/fuzhenghang.github.io/images/kepuhang.png" width = "160" ><br/>
 * Personal account (2025-)
 
 ZQA Advances (中气爱科技新知)
